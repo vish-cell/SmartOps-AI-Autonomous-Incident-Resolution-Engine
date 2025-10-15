@@ -1,0 +1,4 @@
+doss monitoring    https://www.kaggle.com/datasets/devendra416/ddos-datasets
+
+ec2 instance comparison        https://www.kaggle.com/datasets/berkayalan/aws-ec2-instance-comparison
+ec2_resource_utilization       https://www.kaggle.com/datasets/sakthivelank/ec2-instance-metricscpumemory-and-disk-usage

@@ -1,0 +1,6522 @@
+[
+    {
+        "timestamp": "2025-07-21T00:00:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.48,
+        "memory_usage": 62.65,
+        "disk_usage": 43.29
+    },
+    {
+        "timestamp": "2025-07-21T00:01:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.57,
+        "memory_usage": 64.87,
+        "disk_usage": 43.73
+    },
+    {
+        "timestamp": "2025-07-21T00:02:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 43.76,
+        "memory_usage": 61.08,
+        "disk_usage": 48.35
+    },
+    {
+        "timestamp": "2025-07-21T00:03:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 48.4,
+        "memory_usage": 55.35,
+        "disk_usage": 51.63
+    },
+    {
+        "timestamp": "2025-07-21T00:04:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.88,
+        "memory_usage": 62.31,
+        "disk_usage": 42.11
+    },
+    {
+        "timestamp": "2025-07-21T00:05:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.14,
+        "memory_usage": 58.28,
+        "disk_usage": 48.94
+    },
+    {
+        "timestamp": "2025-07-21T00:06:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.47,
+        "memory_usage": 58.95,
+        "disk_usage": 48.94
+    },
+    {
+        "timestamp": "2025-07-21T00:07:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 45.67,
+        "memory_usage": 63.59,
+        "disk_usage": 54.78
+    },
+    {
+        "timestamp": "2025-07-21T00:08:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.75,
+        "memory_usage": 66.38,
+        "disk_usage": 49.54
+    },
+    {
+        "timestamp": "2025-07-21T00:09:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 45.07,
+        "memory_usage": 61.69,
+        "disk_usage": 51.93
+    },
+    {
+        "timestamp": "2025-07-21T00:10:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.3,
+        "memory_usage": 63.01,
+        "disk_usage": 51.3
+    },
+    {
+        "timestamp": "2025-07-21T00:11:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.55,
+        "memory_usage": 68.76,
+        "disk_usage": 44.57
+    },
+    {
+        "timestamp": "2025-07-21T00:12:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.35,
+        "memory_usage": 63.1,
+        "disk_usage": 53.35
+    },
+    {
+        "timestamp": "2025-07-21T00:13:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.83,
+        "memory_usage": 72.72,
+        "disk_usage": 51.78
+    },
+    {
+        "timestamp": "2025-07-21T00:14:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 35.03,
+        "memory_usage": 64.75,
+        "disk_usage": 52.74
+    },
+    {
+        "timestamp": "2025-07-21T00:15:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 41.1,
+        "memory_usage": 55.62,
+        "disk_usage": 63.08,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T00:16:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.11,
+        "memory_usage": 65.85,
+        "disk_usage": 45.14
+    },
+    {
+        "timestamp": "2025-07-21T00:17:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 46.01,
+        "memory_usage": 64.54,
+        "disk_usage": 56.65
+    },
+    {
+        "timestamp": "2025-07-21T00:18:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.15,
+        "memory_usage": 68.35,
+        "disk_usage": 50.7
+    },
+    {
+        "timestamp": "2025-07-21T00:19:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 37.89,
+        "memory_usage": 66.06,
+        "disk_usage": 52.51
+    },
+    {
+        "timestamp": "2025-07-21T00:20:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.54,
+        "memory_usage": 62.99,
+        "disk_usage": 51.6
+    },
+    {
+        "timestamp": "2025-07-21T00:21:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.34,
+        "memory_usage": 58.82,
+        "disk_usage": 50.55
+    },
+    {
+        "timestamp": "2025-07-21T00:22:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 46.06,
+        "memory_usage": 63.06,
+        "disk_usage": 50.2
+    },
+    {
+        "timestamp": "2025-07-21T00:23:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 38.86,
+        "memory_usage": 60.67,
+        "disk_usage": 52.98
+    },
+    {
+        "timestamp": "2025-07-21T00:24:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 43.52,
+        "memory_usage": 61.92,
+        "disk_usage": 47.53
+    },
+    {
+        "timestamp": "2025-07-21T00:25:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 47.05,
+        "memory_usage": 66.77,
+        "disk_usage": 54.42
+    },
+    {
+        "timestamp": "2025-07-21T00:26:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.99,
+        "memory_usage": 71.27,
+        "disk_usage": 51.0
+    },
+    {
+        "timestamp": "2025-07-21T00:27:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 48.88,
+        "memory_usage": 66.34,
+        "disk_usage": 48.94
+    },
+    {
+        "timestamp": "2025-07-21T00:28:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.25,
+        "memory_usage": 60.15,
+        "disk_usage": 51.07
+    },
+    {
+        "timestamp": "2025-07-21T00:29:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 46.05,
+        "memory_usage": 66.89,
+        "disk_usage": 56.28
+    },
+    {
+        "timestamp": "2025-07-21T00:30:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.76,
+        "memory_usage": 70.07,
+        "disk_usage": 50.98
+    },
+    {
+        "timestamp": "2025-07-21T00:31:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.28,
+        "memory_usage": 63.01,
+        "disk_usage": 53.75
+    },
+    {
+        "timestamp": "2025-07-21T00:32:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 48.2,
+        "memory_usage": 65.09,
+        "disk_usage": 50.56
+    },
+    {
+        "timestamp": "2025-07-21T00:33:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 43.23,
+        "memory_usage": 65.85,
+        "disk_usage": 55.11
+    },
+    {
+        "timestamp": "2025-07-21T00:34:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.88,
+        "memory_usage": 62.83,
+        "disk_usage": 54.98
+    },
+    {
+        "timestamp": "2025-07-21T00:35:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.92,
+        "memory_usage": 68.73,
+        "disk_usage": 58.55
+    },
+    {
+        "timestamp": "2025-07-21T00:36:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 50.31,
+        "memory_usage": 65.82,
+        "disk_usage": 52.56
+    },
+    {
+        "timestamp": "2025-07-21T00:37:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.72,
+        "memory_usage": 68.15,
+        "disk_usage": 55.18
+    },
+    {
+        "timestamp": "2025-07-21T00:38:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 43.13,
+        "memory_usage": 63.09,
+        "disk_usage": 53.55
+    },
+    {
+        "timestamp": "2025-07-21T00:39:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.0,
+        "memory_usage": 65.06,
+        "disk_usage": 57.23
+    },
+    {
+        "timestamp": "2025-07-21T00:40:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 53.95,
+        "memory_usage": 69.87,
+        "disk_usage": 51.26
+    },
+    {
+        "timestamp": "2025-07-21T00:41:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.36,
+        "memory_usage": 65.66,
+        "disk_usage": 55.74
+    },
+    {
+        "timestamp": "2025-07-21T00:42:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 50.17,
+        "memory_usage": 74.22,
+        "disk_usage": 53.0
+    },
+    {
+        "timestamp": "2025-07-21T00:43:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.49,
+        "memory_usage": 65.88,
+        "disk_usage": 53.47
+    },
+    {
+        "timestamp": "2025-07-21T00:44:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 43.85,
+        "memory_usage": 68.54,
+        "disk_usage": 54.02
+    },
+    {
+        "timestamp": "2025-07-21T00:45:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 47.88,
+        "memory_usage": 71.54,
+        "disk_usage": 54.58
+    },
+    {
+        "timestamp": "2025-07-21T00:46:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.42,
+        "memory_usage": 62.3,
+        "disk_usage": 53.56
+    },
+    {
+        "timestamp": "2025-07-21T00:47:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.25,
+        "memory_usage": 61.09,
+        "disk_usage": 54.63
+    },
+    {
+        "timestamp": "2025-07-21T00:48:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 53.92,
+        "memory_usage": 62.2,
+        "disk_usage": 58.8
+    },
+    {
+        "timestamp": "2025-07-21T00:49:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 43.63,
+        "memory_usage": 73.51,
+        "disk_usage": 57.1
+    },
+    {
+        "timestamp": "2025-07-21T00:50:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.3,
+        "memory_usage": 66.42,
+        "disk_usage": 56.83
+    },
+    {
+        "timestamp": "2025-07-21T00:51:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 50.99,
+        "memory_usage": 79.02,
+        "disk_usage": 52.94
+    },
+    {
+        "timestamp": "2025-07-21T00:52:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.77,
+        "memory_usage": 66.69,
+        "disk_usage": 51.72
+    },
+    {
+        "timestamp": "2025-07-21T00:53:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.44,
+        "memory_usage": 69.85,
+        "disk_usage": 57.33
+    },
+    {
+        "timestamp": "2025-07-21T00:54:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.77,
+        "memory_usage": 75.44,
+        "disk_usage": 57.17
+    },
+    {
+        "timestamp": "2025-07-21T00:55:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.51,
+        "memory_usage": 77.45,
+        "disk_usage": 59.04
+    },
+    {
+        "timestamp": "2025-07-21T00:56:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.89,
+        "memory_usage": 77.83,
+        "disk_usage": 52.88
+    },
+    {
+        "timestamp": "2025-07-21T00:57:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.77,
+        "memory_usage": 74.57,
+        "disk_usage": 54.08
+    },
+    {
+        "timestamp": "2025-07-21T00:58:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.2,
+        "memory_usage": 73.99,
+        "disk_usage": 49.93
+    },
+    {
+        "timestamp": "2025-07-21T00:59:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.65,
+        "memory_usage": 72.42,
+        "disk_usage": 53.75
+    },
+    {
+        "timestamp": "2025-07-21T01:00:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.6,
+        "memory_usage": 73.32,
+        "disk_usage": 57.99
+    },
+    {
+        "timestamp": "2025-07-21T01:01:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.3,
+        "memory_usage": 68.16,
+        "disk_usage": 53.68
+    },
+    {
+        "timestamp": "2025-07-21T01:02:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.92,
+        "memory_usage": 67.24,
+        "disk_usage": 57.07
+    },
+    {
+        "timestamp": "2025-07-21T01:03:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.69,
+        "memory_usage": 70.66,
+        "disk_usage": 54.65
+    },
+    {
+        "timestamp": "2025-07-21T01:04:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.96,
+        "memory_usage": 70.14,
+        "disk_usage": 56.27
+    },
+    {
+        "timestamp": "2025-07-21T01:05:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.9,
+        "memory_usage": 69.16,
+        "disk_usage": 51.93
+    },
+    {
+        "timestamp": "2025-07-21T01:06:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 55.98,
+        "memory_usage": 73.91,
+        "disk_usage": 55.7
+    },
+    {
+        "timestamp": "2025-07-21T01:07:00Z",
+        "level": "ERROR",
+        "msg": "Memory pressure detected",
+        "reason": "Memory threshold exceeded",
+        "cpu_usage": 61.58,
+        "memory_usage": 75.09,
+        "disk_usage": 46.55,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T01:08:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.58,
+        "memory_usage": 71.77,
+        "disk_usage": 55.03
+    },
+    {
+        "timestamp": "2025-07-21T01:09:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 53.77,
+        "memory_usage": 77.48,
+        "disk_usage": 50.77
+    },
+    {
+        "timestamp": "2025-07-21T01:10:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.01,
+        "memory_usage": 67.15,
+        "disk_usage": 59.35
+    },
+    {
+        "timestamp": "2025-07-21T01:11:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.11,
+        "memory_usage": 71.09,
+        "disk_usage": 58.14
+    },
+    {
+        "timestamp": "2025-07-21T01:12:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.45,
+        "memory_usage": 69.14,
+        "disk_usage": 57.28
+    },
+    {
+        "timestamp": "2025-07-21T01:13:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.67,
+        "memory_usage": 64.68,
+        "disk_usage": 60.51
+    },
+    {
+        "timestamp": "2025-07-21T01:14:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.96,
+        "memory_usage": 71.96,
+        "disk_usage": 53.17
+    },
+    {
+        "timestamp": "2025-07-21T01:15:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.37,
+        "memory_usage": 71.95,
+        "disk_usage": 61.33
+    },
+    {
+        "timestamp": "2025-07-21T01:16:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.91,
+        "memory_usage": 78.63,
+        "disk_usage": 58.95
+    },
+    {
+        "timestamp": "2025-07-21T01:17:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.18,
+        "memory_usage": 75.24,
+        "disk_usage": 55.52
+    },
+    {
+        "timestamp": "2025-07-21T01:18:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.34,
+        "memory_usage": 68.76,
+        "disk_usage": 59.7
+    },
+    {
+        "timestamp": "2025-07-21T01:19:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.14,
+        "memory_usage": 80.41,
+        "disk_usage": 53.04
+    },
+    {
+        "timestamp": "2025-07-21T01:20:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.19,
+        "memory_usage": 78.02,
+        "disk_usage": 53.95
+    },
+    {
+        "timestamp": "2025-07-21T01:21:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.27,
+        "memory_usage": 75.6,
+        "disk_usage": 54.67
+    },
+    {
+        "timestamp": "2025-07-21T01:22:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.07,
+        "memory_usage": 72.5,
+        "disk_usage": 54.97
+    },
+    {
+        "timestamp": "2025-07-21T01:23:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.29,
+        "memory_usage": 69.7,
+        "disk_usage": 53.46
+    },
+    {
+        "timestamp": "2025-07-21T01:24:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.03,
+        "memory_usage": 72.19,
+        "disk_usage": 60.36
+    },
+    {
+        "timestamp": "2025-07-21T01:25:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.76,
+        "memory_usage": 78.16,
+        "disk_usage": 55.98
+    },
+    {
+        "timestamp": "2025-07-21T01:26:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.04,
+        "memory_usage": 81.48,
+        "disk_usage": 57.88
+    },
+    {
+        "timestamp": "2025-07-21T01:27:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.29,
+        "memory_usage": 80.24,
+        "disk_usage": 55.17
+    },
+    {
+        "timestamp": "2025-07-21T01:28:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.19,
+        "memory_usage": 72.24,
+        "disk_usage": 51.48
+    },
+    {
+        "timestamp": "2025-07-21T01:29:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.59,
+        "memory_usage": 69.85,
+        "disk_usage": 57.82
+    },
+    {
+        "timestamp": "2025-07-21T01:30:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.7,
+        "memory_usage": 75.02,
+        "disk_usage": 51.33
+    },
+    {
+        "timestamp": "2025-07-21T01:31:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 66.24,
+        "memory_usage": 67.51,
+        "disk_usage": 56.93
+    },
+    {
+        "timestamp": "2025-07-21T01:32:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.07,
+        "memory_usage": 76.0,
+        "disk_usage": 53.09
+    },
+    {
+        "timestamp": "2025-07-21T01:33:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 60.12,
+        "memory_usage": 74.24,
+        "disk_usage": 63.22
+    },
+    {
+        "timestamp": "2025-07-21T01:34:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.98,
+        "memory_usage": 73.09,
+        "disk_usage": 60.05
+    },
+    {
+        "timestamp": "2025-07-21T01:35:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.8,
+        "memory_usage": 68.7,
+        "disk_usage": 57.69
+    },
+    {
+        "timestamp": "2025-07-21T01:36:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.77,
+        "memory_usage": 77.25,
+        "disk_usage": 61.22
+    },
+    {
+        "timestamp": "2025-07-21T01:37:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.77,
+        "memory_usage": 73.19,
+        "disk_usage": 54.95
+    },
+    {
+        "timestamp": "2025-07-21T01:38:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.67,
+        "memory_usage": 70.75,
+        "disk_usage": 59.18
+    },
+    {
+        "timestamp": "2025-07-21T01:39:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.64,
+        "memory_usage": 64.06,
+        "disk_usage": 58.2
+    },
+    {
+        "timestamp": "2025-07-21T01:40:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 55.9,
+        "memory_usage": 75.56,
+        "disk_usage": 58.45
+    },
+    {
+        "timestamp": "2025-07-21T01:41:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.05,
+        "memory_usage": 82.87,
+        "disk_usage": 61.53
+    },
+    {
+        "timestamp": "2025-07-21T01:42:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.6,
+        "memory_usage": 82.54,
+        "disk_usage": 59.97
+    },
+    {
+        "timestamp": "2025-07-21T01:43:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.47,
+        "memory_usage": 74.18,
+        "disk_usage": 58.69
+    },
+    {
+        "timestamp": "2025-07-21T01:44:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.83,
+        "memory_usage": 73.71,
+        "disk_usage": 52.92
+    },
+    {
+        "timestamp": "2025-07-21T01:45:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.82,
+        "memory_usage": 78.11,
+        "disk_usage": 55.05
+    },
+    {
+        "timestamp": "2025-07-21T01:46:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.39,
+        "memory_usage": 72.35,
+        "disk_usage": 57.62
+    },
+    {
+        "timestamp": "2025-07-21T01:47:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.99,
+        "memory_usage": 77.66,
+        "disk_usage": 58.32
+    },
+    {
+        "timestamp": "2025-07-21T01:48:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.56,
+        "memory_usage": 79.62,
+        "disk_usage": 54.7
+    },
+    {
+        "timestamp": "2025-07-21T01:49:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.05,
+        "memory_usage": 81.57,
+        "disk_usage": 65.38
+    },
+    {
+        "timestamp": "2025-07-21T01:50:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.98,
+        "memory_usage": 76.36,
+        "disk_usage": 62.74
+    },
+    {
+        "timestamp": "2025-07-21T01:51:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.59,
+        "memory_usage": 76.05,
+        "disk_usage": 60.05
+    },
+    {
+        "timestamp": "2025-07-21T01:52:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.17,
+        "memory_usage": 73.46,
+        "disk_usage": 58.51
+    },
+    {
+        "timestamp": "2025-07-21T01:53:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 77.33,
+        "memory_usage": 73.76,
+        "disk_usage": 57.7
+    },
+    {
+        "timestamp": "2025-07-21T01:54:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.2,
+        "memory_usage": 76.26,
+        "disk_usage": 55.53
+    },
+    {
+        "timestamp": "2025-07-21T01:55:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 66.81,
+        "memory_usage": 78.74,
+        "disk_usage": 58.67
+    },
+    {
+        "timestamp": "2025-07-21T01:56:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.27,
+        "memory_usage": 81.02,
+        "disk_usage": 59.25
+    },
+    {
+        "timestamp": "2025-07-21T01:57:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.74,
+        "memory_usage": 74.25,
+        "disk_usage": 54.8
+    },
+    {
+        "timestamp": "2025-07-21T01:58:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.43,
+        "memory_usage": 83.52,
+        "disk_usage": 59.57
+    },
+    {
+        "timestamp": "2025-07-21T01:59:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.61,
+        "memory_usage": 76.56,
+        "disk_usage": 58.15
+    },
+    {
+        "timestamp": "2025-07-21T02:00:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.94,
+        "memory_usage": 77.65,
+        "disk_usage": 52.94
+    },
+    {
+        "timestamp": "2025-07-21T02:01:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.56,
+        "memory_usage": 74.84,
+        "disk_usage": 56.12
+    },
+    {
+        "timestamp": "2025-07-21T02:02:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.25,
+        "memory_usage": 68.22,
+        "disk_usage": 57.51
+    },
+    {
+        "timestamp": "2025-07-21T02:03:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.36,
+        "memory_usage": 81.54,
+        "disk_usage": 64.45
+    },
+    {
+        "timestamp": "2025-07-21T02:04:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.42,
+        "memory_usage": 81.04,
+        "disk_usage": 60.5
+    },
+    {
+        "timestamp": "2025-07-21T02:05:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 77.56,
+        "memory_usage": 77.05,
+        "disk_usage": 54.86
+    },
+    {
+        "timestamp": "2025-07-21T02:06:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.78,
+        "memory_usage": 78.53,
+        "disk_usage": 60.37
+    },
+    {
+        "timestamp": "2025-07-21T02:07:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.02,
+        "memory_usage": 80.4,
+        "disk_usage": 54.31
+    },
+    {
+        "timestamp": "2025-07-21T02:08:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.46,
+        "memory_usage": 72.17,
+        "disk_usage": 62.24
+    },
+    {
+        "timestamp": "2025-07-21T02:09:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.56,
+        "memory_usage": 76.38,
+        "disk_usage": 57.61
+    },
+    {
+        "timestamp": "2025-07-21T02:10:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.44,
+        "memory_usage": 81.75,
+        "disk_usage": 58.78
+    },
+    {
+        "timestamp": "2025-07-21T02:11:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.64,
+        "memory_usage": 73.64,
+        "disk_usage": 63.08
+    },
+    {
+        "timestamp": "2025-07-21T02:12:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.09,
+        "memory_usage": 79.9,
+        "disk_usage": 55.27
+    },
+    {
+        "timestamp": "2025-07-21T02:13:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.88,
+        "memory_usage": 73.38,
+        "disk_usage": 54.98
+    },
+    {
+        "timestamp": "2025-07-21T02:14:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.02,
+        "memory_usage": 80.74,
+        "disk_usage": 57.45
+    },
+    {
+        "timestamp": "2025-07-21T02:15:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 75.47,
+        "memory_usage": 78.8,
+        "disk_usage": 62.35
+    },
+    {
+        "timestamp": "2025-07-21T02:16:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.9,
+        "memory_usage": 72.56,
+        "disk_usage": 54.71
+    },
+    {
+        "timestamp": "2025-07-21T02:17:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 66.3,
+        "memory_usage": 83.74,
+        "disk_usage": 50.81
+    },
+    {
+        "timestamp": "2025-07-21T02:18:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 72.07,
+        "memory_usage": 76.21,
+        "disk_usage": 57.98
+    },
+    {
+        "timestamp": "2025-07-21T02:19:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.95,
+        "memory_usage": 75.98,
+        "disk_usage": 61.02
+    },
+    {
+        "timestamp": "2025-07-21T02:20:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.33,
+        "memory_usage": 80.08,
+        "disk_usage": 63.0
+    },
+    {
+        "timestamp": "2025-07-21T02:21:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 74.81,
+        "memory_usage": 83.94,
+        "disk_usage": 58.04
+    },
+    {
+        "timestamp": "2025-07-21T02:22:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 60.33,
+        "memory_usage": 75.34,
+        "disk_usage": 58.22
+    },
+    {
+        "timestamp": "2025-07-21T02:23:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.37,
+        "memory_usage": 79.71,
+        "disk_usage": 62.94
+    },
+    {
+        "timestamp": "2025-07-21T02:24:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.83,
+        "memory_usage": 81.24,
+        "disk_usage": 53.9
+    },
+    {
+        "timestamp": "2025-07-21T02:25:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 72.52,
+        "memory_usage": 82.35,
+        "disk_usage": 58.37
+    },
+    {
+        "timestamp": "2025-07-21T02:26:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.5,
+        "memory_usage": 80.34,
+        "disk_usage": 60.13
+    },
+    {
+        "timestamp": "2025-07-21T02:27:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.16,
+        "memory_usage": 78.22,
+        "disk_usage": 60.94
+    },
+    {
+        "timestamp": "2025-07-21T02:28:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.45,
+        "memory_usage": 76.43,
+        "disk_usage": 58.08
+    },
+    {
+        "timestamp": "2025-07-21T02:29:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.39,
+        "memory_usage": 80.13,
+        "disk_usage": 59.74
+    },
+    {
+        "timestamp": "2025-07-21T02:30:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.23,
+        "memory_usage": 75.55,
+        "disk_usage": 52.19
+    },
+    {
+        "timestamp": "2025-07-21T02:31:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.78,
+        "memory_usage": 68.2,
+        "disk_usage": 57.71
+    },
+    {
+        "timestamp": "2025-07-21T02:32:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.71,
+        "memory_usage": 81.68,
+        "disk_usage": 61.06
+    },
+    {
+        "timestamp": "2025-07-21T02:33:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.33,
+        "memory_usage": 83.59,
+        "disk_usage": 56.78
+    },
+    {
+        "timestamp": "2025-07-21T02:34:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.7,
+        "memory_usage": 70.57,
+        "disk_usage": 59.92
+    },
+    {
+        "timestamp": "2025-07-21T02:35:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.72,
+        "memory_usage": 76.03,
+        "disk_usage": 61.1
+    },
+    {
+        "timestamp": "2025-07-21T02:36:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 78.67,
+        "memory_usage": 82.58,
+        "disk_usage": 58.75
+    },
+    {
+        "timestamp": "2025-07-21T02:37:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.77,
+        "memory_usage": 88.37,
+        "disk_usage": 60.31
+    },
+    {
+        "timestamp": "2025-07-21T02:38:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.49,
+        "memory_usage": 80.26,
+        "disk_usage": 56.93
+    },
+    {
+        "timestamp": "2025-07-21T02:39:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 72.78,
+        "memory_usage": 77.31,
+        "disk_usage": 59.21
+    },
+    {
+        "timestamp": "2025-07-21T02:40:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.67,
+        "memory_usage": 79.52,
+        "disk_usage": 61.68
+    },
+    {
+        "timestamp": "2025-07-21T02:41:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.52,
+        "memory_usage": 85.78,
+        "disk_usage": 60.33
+    },
+    {
+        "timestamp": "2025-07-21T02:42:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 75.42,
+        "memory_usage": 77.73,
+        "disk_usage": 58.12
+    },
+    {
+        "timestamp": "2025-07-21T02:43:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.57,
+        "memory_usage": 77.15,
+        "disk_usage": 60.56
+    },
+    {
+        "timestamp": "2025-07-21T02:44:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 74.52,
+        "memory_usage": 78.44,
+        "disk_usage": 62.05
+    },
+    {
+        "timestamp": "2025-07-21T02:45:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.81,
+        "memory_usage": 76.59,
+        "disk_usage": 53.76
+    },
+    {
+        "timestamp": "2025-07-21T02:46:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.89,
+        "memory_usage": 80.92,
+        "disk_usage": 63.4
+    },
+    {
+        "timestamp": "2025-07-21T02:47:00Z",
+        "level": "ERROR",
+        "msg": "High CPU utilization detected",
+        "reason": "CPU spike",
+        "cpu_usage": 79.29,
+        "memory_usage": 86.95,
+        "disk_usage": 58.93,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T02:48:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 68.61,
+        "memory_usage": 81.77,
+        "disk_usage": 61.22
+    },
+    {
+        "timestamp": "2025-07-21T02:49:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 66.09,
+        "memory_usage": 79.49,
+        "disk_usage": 63.55
+    },
+    {
+        "timestamp": "2025-07-21T02:50:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.44,
+        "memory_usage": 79.35,
+        "disk_usage": 55.85
+    },
+    {
+        "timestamp": "2025-07-21T02:51:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.83,
+        "memory_usage": 74.28,
+        "disk_usage": 57.84
+    },
+    {
+        "timestamp": "2025-07-21T02:52:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.54,
+        "memory_usage": 84.08,
+        "disk_usage": 59.11
+    },
+    {
+        "timestamp": "2025-07-21T02:53:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.65,
+        "memory_usage": 80.25,
+        "disk_usage": 57.63
+    },
+    {
+        "timestamp": "2025-07-21T02:54:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.34,
+        "memory_usage": 79.85,
+        "disk_usage": 65.19
+    },
+    {
+        "timestamp": "2025-07-21T02:55:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 74.11,
+        "memory_usage": 93.36,
+        "disk_usage": 57.42,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T02:56:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.05,
+        "memory_usage": 81.79,
+        "disk_usage": 58.33
+    },
+    {
+        "timestamp": "2025-07-21T02:57:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 77.26,
+        "memory_usage": 77.6,
+        "disk_usage": 60.61
+    },
+    {
+        "timestamp": "2025-07-21T02:58:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 68.67,
+        "memory_usage": 78.91,
+        "disk_usage": 56.39
+    },
+    {
+        "timestamp": "2025-07-21T02:59:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 83.6,
+        "memory_usage": 85.21,
+        "disk_usage": 58.81,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:00:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.13,
+        "memory_usage": 81.08,
+        "disk_usage": 60.95
+    },
+    {
+        "timestamp": "2025-07-21T03:01:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.71,
+        "memory_usage": 74.87,
+        "disk_usage": 59.0
+    },
+    {
+        "timestamp": "2025-07-21T03:02:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.64,
+        "memory_usage": 84.31,
+        "disk_usage": 59.72
+    },
+    {
+        "timestamp": "2025-07-21T03:03:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 72.4,
+        "memory_usage": 77.96,
+        "disk_usage": 58.41
+    },
+    {
+        "timestamp": "2025-07-21T03:04:00Z",
+        "level": "ERROR",
+        "msg": "Memory pressure detected",
+        "reason": "Memory threshold exceeded",
+        "cpu_usage": 68.86,
+        "memory_usage": 88.12,
+        "disk_usage": 55.45,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:05:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.54,
+        "memory_usage": 84.94,
+        "disk_usage": 60.96
+    },
+    {
+        "timestamp": "2025-07-21T03:06:00Z",
+        "level": "ERROR",
+        "msg": "High CPU utilization detected",
+        "reason": "CPU spike",
+        "cpu_usage": 72.33,
+        "memory_usage": 78.83,
+        "disk_usage": 65.25,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:07:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.58,
+        "memory_usage": 85.74,
+        "disk_usage": 60.04
+    },
+    {
+        "timestamp": "2025-07-21T03:08:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.69,
+        "memory_usage": 80.88,
+        "disk_usage": 60.65
+    },
+    {
+        "timestamp": "2025-07-21T03:09:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.33,
+        "memory_usage": 84.01,
+        "disk_usage": 62.05
+    },
+    {
+        "timestamp": "2025-07-21T03:10:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.65,
+        "memory_usage": 82.52,
+        "disk_usage": 56.15
+    },
+    {
+        "timestamp": "2025-07-21T03:11:00Z",
+        "level": "ERROR",
+        "msg": "High CPU utilization detected",
+        "reason": "CPU spike",
+        "cpu_usage": 74.14,
+        "memory_usage": 77.19,
+        "disk_usage": 65.06,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:12:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.91,
+        "memory_usage": 77.98,
+        "disk_usage": 60.55
+    },
+    {
+        "timestamp": "2025-07-21T03:13:00Z",
+        "level": "ERROR",
+        "msg": "Disk write latency increased",
+        "reason": "Disk I/O issue",
+        "cpu_usage": 63.58,
+        "memory_usage": 84.66,
+        "disk_usage": 64.83,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:14:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.64,
+        "memory_usage": 79.19,
+        "disk_usage": 57.73
+    },
+    {
+        "timestamp": "2025-07-21T03:15:00Z",
+        "level": "ERROR",
+        "msg": "Disk write latency increased",
+        "reason": "Disk I/O issue",
+        "cpu_usage": 71.67,
+        "memory_usage": 78.89,
+        "disk_usage": 65.37,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:16:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.29,
+        "memory_usage": 76.67,
+        "disk_usage": 62.23
+    },
+    {
+        "timestamp": "2025-07-21T03:17:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.44,
+        "memory_usage": 82.16,
+        "disk_usage": 61.55
+    },
+    {
+        "timestamp": "2025-07-21T03:18:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.92,
+        "memory_usage": 88.69,
+        "disk_usage": 60.58
+    },
+    {
+        "timestamp": "2025-07-21T03:19:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.87,
+        "memory_usage": 76.15,
+        "disk_usage": 59.12
+    },
+    {
+        "timestamp": "2025-07-21T03:20:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.33,
+        "memory_usage": 80.49,
+        "disk_usage": 63.45
+    },
+    {
+        "timestamp": "2025-07-21T03:21:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 72.3,
+        "memory_usage": 86.01,
+        "disk_usage": 60.25
+    },
+    {
+        "timestamp": "2025-07-21T03:22:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 74.86,
+        "memory_usage": 80.02,
+        "disk_usage": 53.92
+    },
+    {
+        "timestamp": "2025-07-21T03:23:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 74.67,
+        "memory_usage": 82.11,
+        "disk_usage": 56.45
+    },
+    {
+        "timestamp": "2025-07-21T03:24:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.46,
+        "memory_usage": 76.02,
+        "disk_usage": 59.22
+    },
+    {
+        "timestamp": "2025-07-21T03:25:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.6,
+        "memory_usage": 81.95,
+        "disk_usage": 60.69
+    },
+    {
+        "timestamp": "2025-07-21T03:26:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.81,
+        "memory_usage": 79.45,
+        "disk_usage": 59.57
+    },
+    {
+        "timestamp": "2025-07-21T03:27:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.74,
+        "memory_usage": 84.11,
+        "disk_usage": 63.38
+    },
+    {
+        "timestamp": "2025-07-21T03:28:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.68,
+        "memory_usage": 84.88,
+        "disk_usage": 53.85
+    },
+    {
+        "timestamp": "2025-07-21T03:29:00Z",
+        "level": "ERROR",
+        "msg": "Disk write latency increased",
+        "reason": "Disk I/O issue",
+        "cpu_usage": 88.31,
+        "memory_usage": 90.45,
+        "disk_usage": 60.11,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:30:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 71.83,
+        "memory_usage": 82.37,
+        "disk_usage": 54.21
+    },
+    {
+        "timestamp": "2025-07-21T03:31:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 74.59,
+        "memory_usage": 81.31,
+        "disk_usage": 61.92
+    },
+    {
+        "timestamp": "2025-07-21T03:32:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.61,
+        "memory_usage": 80.74,
+        "disk_usage": 59.33
+    },
+    {
+        "timestamp": "2025-07-21T03:33:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 72.02,
+        "memory_usage": 78.5,
+        "disk_usage": 60.85
+    },
+    {
+        "timestamp": "2025-07-21T03:34:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.11,
+        "memory_usage": 81.22,
+        "disk_usage": 56.97
+    },
+    {
+        "timestamp": "2025-07-21T03:35:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 72.41,
+        "memory_usage": 78.64,
+        "disk_usage": 63.38
+    },
+    {
+        "timestamp": "2025-07-21T03:36:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 64.67,
+        "memory_usage": 80.44,
+        "disk_usage": 62.64
+    },
+    {
+        "timestamp": "2025-07-21T03:37:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.27,
+        "memory_usage": 84.99,
+        "disk_usage": 61.23
+    },
+    {
+        "timestamp": "2025-07-21T03:38:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.94,
+        "memory_usage": 75.64,
+        "disk_usage": 59.07
+    },
+    {
+        "timestamp": "2025-07-21T03:39:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 68.69,
+        "memory_usage": 84.17,
+        "disk_usage": 61.17
+    },
+    {
+        "timestamp": "2025-07-21T03:40:00Z",
+        "level": "ERROR",
+        "msg": "Network packet loss detected",
+        "reason": "Network issue",
+        "cpu_usage": 79.76,
+        "memory_usage": 84.83,
+        "disk_usage": 57.28,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:41:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.76,
+        "memory_usage": 79.03,
+        "disk_usage": 61.93
+    },
+    {
+        "timestamp": "2025-07-21T03:42:00Z",
+        "level": "ERROR",
+        "msg": "Service restart initiated due to crash",
+        "reason": "Service failure",
+        "cpu_usage": 71.44,
+        "memory_usage": 70.96,
+        "disk_usage": 64.28,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T03:43:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.85,
+        "memory_usage": 76.95,
+        "disk_usage": 62.52
+    },
+    {
+        "timestamp": "2025-07-21T03:44:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.46,
+        "memory_usage": 84.51,
+        "disk_usage": 57.08
+    },
+    {
+        "timestamp": "2025-07-21T03:45:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.16,
+        "memory_usage": 79.17,
+        "disk_usage": 60.32
+    },
+    {
+        "timestamp": "2025-07-21T03:46:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.94,
+        "memory_usage": 75.2,
+        "disk_usage": 55.33
+    },
+    {
+        "timestamp": "2025-07-21T03:47:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.12,
+        "memory_usage": 77.11,
+        "disk_usage": 60.89
+    },
+    {
+        "timestamp": "2025-07-21T03:48:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.83,
+        "memory_usage": 82.43,
+        "disk_usage": 60.49
+    },
+    {
+        "timestamp": "2025-07-21T03:49:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.7,
+        "memory_usage": 81.18,
+        "disk_usage": 53.49
+    },
+    {
+        "timestamp": "2025-07-21T03:50:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.54,
+        "memory_usage": 77.97,
+        "disk_usage": 55.58
+    },
+    {
+        "timestamp": "2025-07-21T03:51:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 68.16,
+        "memory_usage": 77.39,
+        "disk_usage": 58.18
+    },
+    {
+        "timestamp": "2025-07-21T03:52:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.19,
+        "memory_usage": 77.21,
+        "disk_usage": 58.09
+    },
+    {
+        "timestamp": "2025-07-21T03:53:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.59,
+        "memory_usage": 75.02,
+        "disk_usage": 55.32
+    },
+    {
+        "timestamp": "2025-07-21T03:54:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 77.45,
+        "memory_usage": 85.09,
+        "disk_usage": 60.08
+    },
+    {
+        "timestamp": "2025-07-21T03:55:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.78,
+        "memory_usage": 77.27,
+        "disk_usage": 59.62
+    },
+    {
+        "timestamp": "2025-07-21T03:56:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.36,
+        "memory_usage": 83.35,
+        "disk_usage": 58.25
+    },
+    {
+        "timestamp": "2025-07-21T03:57:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.3,
+        "memory_usage": 84.48,
+        "disk_usage": 56.52
+    },
+    {
+        "timestamp": "2025-07-21T03:58:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.93,
+        "memory_usage": 82.31,
+        "disk_usage": 61.89
+    },
+    {
+        "timestamp": "2025-07-21T03:59:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.37,
+        "memory_usage": 76.51,
+        "disk_usage": 63.67
+    },
+    {
+        "timestamp": "2025-07-21T04:00:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.02,
+        "memory_usage": 79.77,
+        "disk_usage": 57.21
+    },
+    {
+        "timestamp": "2025-07-21T04:01:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.28,
+        "memory_usage": 77.97,
+        "disk_usage": 56.78
+    },
+    {
+        "timestamp": "2025-07-21T04:02:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 68.24,
+        "memory_usage": 74.37,
+        "disk_usage": 60.05
+    },
+    {
+        "timestamp": "2025-07-21T04:03:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.91,
+        "memory_usage": 79.19,
+        "disk_usage": 57.45
+    },
+    {
+        "timestamp": "2025-07-21T04:04:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.44,
+        "memory_usage": 73.09,
+        "disk_usage": 58.06
+    },
+    {
+        "timestamp": "2025-07-21T04:05:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 63.63,
+        "memory_usage": 82.47,
+        "disk_usage": 60.65
+    },
+    {
+        "timestamp": "2025-07-21T04:06:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.79,
+        "memory_usage": 75.77,
+        "disk_usage": 52.66
+    },
+    {
+        "timestamp": "2025-07-21T04:07:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.75,
+        "memory_usage": 78.34,
+        "disk_usage": 62.29
+    },
+    {
+        "timestamp": "2025-07-21T04:08:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 73.7,
+        "memory_usage": 78.58,
+        "disk_usage": 58.51
+    },
+    {
+        "timestamp": "2025-07-21T04:09:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 66.75,
+        "memory_usage": 76.31,
+        "disk_usage": 57.01
+    },
+    {
+        "timestamp": "2025-07-21T04:10:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.27,
+        "memory_usage": 79.6,
+        "disk_usage": 57.92
+    },
+    {
+        "timestamp": "2025-07-21T04:11:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.01,
+        "memory_usage": 75.25,
+        "disk_usage": 58.03
+    },
+    {
+        "timestamp": "2025-07-21T04:12:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 74.88,
+        "memory_usage": 80.54,
+        "disk_usage": 52.9
+    },
+    {
+        "timestamp": "2025-07-21T04:13:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.28,
+        "memory_usage": 71.57,
+        "disk_usage": 62.52
+    },
+    {
+        "timestamp": "2025-07-21T04:14:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.36,
+        "memory_usage": 77.36,
+        "disk_usage": 58.11
+    },
+    {
+        "timestamp": "2025-07-21T04:15:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.38,
+        "memory_usage": 84.51,
+        "disk_usage": 59.26
+    },
+    {
+        "timestamp": "2025-07-21T04:16:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.97,
+        "memory_usage": 72.65,
+        "disk_usage": 60.73
+    },
+    {
+        "timestamp": "2025-07-21T04:17:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.94,
+        "memory_usage": 73.83,
+        "disk_usage": 54.76
+    },
+    {
+        "timestamp": "2025-07-21T04:18:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 65.53,
+        "memory_usage": 78.49,
+        "disk_usage": 59.19
+    },
+    {
+        "timestamp": "2025-07-21T04:19:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 67.02,
+        "memory_usage": 77.05,
+        "disk_usage": 56.91
+    },
+    {
+        "timestamp": "2025-07-21T04:20:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.35,
+        "memory_usage": 77.63,
+        "disk_usage": 60.2
+    },
+    {
+        "timestamp": "2025-07-21T04:21:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.51,
+        "memory_usage": 78.07,
+        "disk_usage": 51.22
+    },
+    {
+        "timestamp": "2025-07-21T04:22:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 46.43,
+        "memory_usage": 78.54,
+        "disk_usage": 57.25
+    },
+    {
+        "timestamp": "2025-07-21T04:23:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.35,
+        "memory_usage": 80.33,
+        "disk_usage": 55.68
+    },
+    {
+        "timestamp": "2025-07-21T04:24:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.03,
+        "memory_usage": 77.42,
+        "disk_usage": 58.73
+    },
+    {
+        "timestamp": "2025-07-21T04:25:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 55.88,
+        "memory_usage": 74.7,
+        "disk_usage": 58.78
+    },
+    {
+        "timestamp": "2025-07-21T04:26:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 70.1,
+        "memory_usage": 78.24,
+        "disk_usage": 55.19
+    },
+    {
+        "timestamp": "2025-07-21T04:27:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.61,
+        "memory_usage": 83.03,
+        "disk_usage": 55.12
+    },
+    {
+        "timestamp": "2025-07-21T04:28:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.38,
+        "memory_usage": 74.79,
+        "disk_usage": 56.86
+    },
+    {
+        "timestamp": "2025-07-21T04:29:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.05,
+        "memory_usage": 71.3,
+        "disk_usage": 54.44
+    },
+    {
+        "timestamp": "2025-07-21T04:30:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 68.42,
+        "memory_usage": 79.51,
+        "disk_usage": 59.6
+    },
+    {
+        "timestamp": "2025-07-21T04:31:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 53.85,
+        "memory_usage": 74.48,
+        "disk_usage": 55.9
+    },
+    {
+        "timestamp": "2025-07-21T04:32:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 66.66,
+        "memory_usage": 66.15,
+        "disk_usage": 48.23
+    },
+    {
+        "timestamp": "2025-07-21T04:33:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 60.7,
+        "memory_usage": 78.1,
+        "disk_usage": 55.76
+    },
+    {
+        "timestamp": "2025-07-21T04:34:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 55.55,
+        "memory_usage": 72.45,
+        "disk_usage": 53.7
+    },
+    {
+        "timestamp": "2025-07-21T04:35:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.58,
+        "memory_usage": 74.1,
+        "disk_usage": 51.86
+    },
+    {
+        "timestamp": "2025-07-21T04:36:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 61.07,
+        "memory_usage": 75.67,
+        "disk_usage": 52.98
+    },
+    {
+        "timestamp": "2025-07-21T04:37:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.88,
+        "memory_usage": 74.98,
+        "disk_usage": 56.95
+    },
+    {
+        "timestamp": "2025-07-21T04:38:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 60.03,
+        "memory_usage": 76.92,
+        "disk_usage": 60.55
+    },
+    {
+        "timestamp": "2025-07-21T04:39:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.56,
+        "memory_usage": 72.22,
+        "disk_usage": 57.43
+    },
+    {
+        "timestamp": "2025-07-21T04:40:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.85,
+        "memory_usage": 75.88,
+        "disk_usage": 54.61
+    },
+    {
+        "timestamp": "2025-07-21T04:41:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 62.39,
+        "memory_usage": 72.66,
+        "disk_usage": 57.73
+    },
+    {
+        "timestamp": "2025-07-21T04:42:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 66.81,
+        "memory_usage": 76.52,
+        "disk_usage": 54.92
+    },
+    {
+        "timestamp": "2025-07-21T04:43:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.49,
+        "memory_usage": 75.89,
+        "disk_usage": 54.14
+    },
+    {
+        "timestamp": "2025-07-21T04:44:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 69.14,
+        "memory_usage": 69.56,
+        "disk_usage": 52.69
+    },
+    {
+        "timestamp": "2025-07-21T04:45:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 48.5,
+        "memory_usage": 77.51,
+        "disk_usage": 50.83
+    },
+    {
+        "timestamp": "2025-07-21T04:46:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.3,
+        "memory_usage": 70.89,
+        "disk_usage": 54.85
+    },
+    {
+        "timestamp": "2025-07-21T04:47:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 60.79,
+        "memory_usage": 76.13,
+        "disk_usage": 56.42
+    },
+    {
+        "timestamp": "2025-07-21T04:48:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.04,
+        "memory_usage": 74.22,
+        "disk_usage": 55.59
+    },
+    {
+        "timestamp": "2025-07-21T04:49:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.31,
+        "memory_usage": 79.97,
+        "disk_usage": 54.56
+    },
+    {
+        "timestamp": "2025-07-21T04:50:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.17,
+        "memory_usage": 71.58,
+        "disk_usage": 52.9
+    },
+    {
+        "timestamp": "2025-07-21T04:51:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.53,
+        "memory_usage": 70.94,
+        "disk_usage": 57.49
+    },
+    {
+        "timestamp": "2025-07-21T04:52:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 53.83,
+        "memory_usage": 72.12,
+        "disk_usage": 51.64
+    },
+    {
+        "timestamp": "2025-07-21T04:53:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 60.81,
+        "memory_usage": 70.84,
+        "disk_usage": 57.85
+    },
+    {
+        "timestamp": "2025-07-21T04:54:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.12,
+        "memory_usage": 75.11,
+        "disk_usage": 52.44
+    },
+    {
+        "timestamp": "2025-07-21T04:55:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.65,
+        "memory_usage": 65.31,
+        "disk_usage": 53.12
+    },
+    {
+        "timestamp": "2025-07-21T04:56:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 60.4,
+        "memory_usage": 67.41,
+        "disk_usage": 50.9
+    },
+    {
+        "timestamp": "2025-07-21T04:57:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.21,
+        "memory_usage": 67.21,
+        "disk_usage": 53.72
+    },
+    {
+        "timestamp": "2025-07-21T04:58:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.52,
+        "memory_usage": 75.14,
+        "disk_usage": 58.08
+    },
+    {
+        "timestamp": "2025-07-21T04:59:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.37,
+        "memory_usage": 78.03,
+        "disk_usage": 56.62
+    },
+    {
+        "timestamp": "2025-07-21T05:00:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 50.86,
+        "memory_usage": 70.62,
+        "disk_usage": 57.94
+    },
+    {
+        "timestamp": "2025-07-21T05:01:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.97,
+        "memory_usage": 70.22,
+        "disk_usage": 56.49
+    },
+    {
+        "timestamp": "2025-07-21T05:02:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.28,
+        "memory_usage": 71.03,
+        "disk_usage": 51.54
+    },
+    {
+        "timestamp": "2025-07-21T05:03:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.37,
+        "memory_usage": 75.24,
+        "disk_usage": 53.78
+    },
+    {
+        "timestamp": "2025-07-21T05:04:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 53.98,
+        "memory_usage": 66.74,
+        "disk_usage": 52.35
+    },
+    {
+        "timestamp": "2025-07-21T05:05:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.44,
+        "memory_usage": 71.25,
+        "disk_usage": 58.61
+    },
+    {
+        "timestamp": "2025-07-21T05:06:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 60.01,
+        "memory_usage": 74.04,
+        "disk_usage": 50.95
+    },
+    {
+        "timestamp": "2025-07-21T05:07:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 50.43,
+        "memory_usage": 71.99,
+        "disk_usage": 57.14
+    },
+    {
+        "timestamp": "2025-07-21T05:08:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 55.89,
+        "memory_usage": 70.6,
+        "disk_usage": 57.06
+    },
+    {
+        "timestamp": "2025-07-21T05:09:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.9,
+        "memory_usage": 73.69,
+        "disk_usage": 59.79
+    },
+    {
+        "timestamp": "2025-07-21T05:10:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.59,
+        "memory_usage": 58.72,
+        "disk_usage": 53.0
+    },
+    {
+        "timestamp": "2025-07-21T05:11:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 57.93,
+        "memory_usage": 72.09,
+        "disk_usage": 56.28
+    },
+    {
+        "timestamp": "2025-07-21T05:12:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.33,
+        "memory_usage": 66.6,
+        "disk_usage": 60.91
+    },
+    {
+        "timestamp": "2025-07-21T05:13:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 56.03,
+        "memory_usage": 61.74,
+        "disk_usage": 52.13
+    },
+    {
+        "timestamp": "2025-07-21T05:14:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 58.25,
+        "memory_usage": 70.95,
+        "disk_usage": 49.3
+    },
+    {
+        "timestamp": "2025-07-21T05:15:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.59,
+        "memory_usage": 74.24,
+        "disk_usage": 48.19
+    },
+    {
+        "timestamp": "2025-07-21T05:16:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.65,
+        "memory_usage": 68.04,
+        "disk_usage": 55.88
+    },
+    {
+        "timestamp": "2025-07-21T05:17:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.44,
+        "memory_usage": 72.24,
+        "disk_usage": 48.02
+    },
+    {
+        "timestamp": "2025-07-21T05:18:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.37,
+        "memory_usage": 74.72,
+        "disk_usage": 52.47
+    },
+    {
+        "timestamp": "2025-07-21T05:19:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.86,
+        "memory_usage": 73.37,
+        "disk_usage": 54.81
+    },
+    {
+        "timestamp": "2025-07-21T05:20:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 50.75,
+        "memory_usage": 74.51,
+        "disk_usage": 53.98
+    },
+    {
+        "timestamp": "2025-07-21T05:21:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.99,
+        "memory_usage": 70.76,
+        "disk_usage": 54.61
+    },
+    {
+        "timestamp": "2025-07-21T05:22:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 45.68,
+        "memory_usage": 67.93,
+        "disk_usage": 53.92
+    },
+    {
+        "timestamp": "2025-07-21T05:23:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 59.98,
+        "memory_usage": 61.06,
+        "disk_usage": 57.01
+    },
+    {
+        "timestamp": "2025-07-21T05:24:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.24,
+        "memory_usage": 66.32,
+        "disk_usage": 50.23
+    },
+    {
+        "timestamp": "2025-07-21T05:25:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.95,
+        "memory_usage": 63.77,
+        "disk_usage": 50.98
+    },
+    {
+        "timestamp": "2025-07-21T05:26:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 54.56,
+        "memory_usage": 75.66,
+        "disk_usage": 50.61
+    },
+    {
+        "timestamp": "2025-07-21T05:27:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 52.48,
+        "memory_usage": 66.11,
+        "disk_usage": 55.33
+    },
+    {
+        "timestamp": "2025-07-21T05:28:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.39,
+        "memory_usage": 67.14,
+        "disk_usage": 55.46
+    },
+    {
+        "timestamp": "2025-07-21T05:29:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.16,
+        "memory_usage": 68.69,
+        "disk_usage": 54.03
+    },
+    {
+        "timestamp": "2025-07-21T05:30:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 47.7,
+        "memory_usage": 66.5,
+        "disk_usage": 56.14
+    },
+    {
+        "timestamp": "2025-07-21T05:31:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 43.03,
+        "memory_usage": 72.94,
+        "disk_usage": 48.97
+    },
+    {
+        "timestamp": "2025-07-21T05:32:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 47.64,
+        "memory_usage": 63.5,
+        "disk_usage": 57.42
+    },
+    {
+        "timestamp": "2025-07-21T05:33:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 43.62,
+        "memory_usage": 66.6,
+        "disk_usage": 56.9
+    },
+    {
+        "timestamp": "2025-07-21T05:34:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 51.62,
+        "memory_usage": 62.69,
+        "disk_usage": 54.46
+    },
+    {
+        "timestamp": "2025-07-21T05:35:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 45.76,
+        "memory_usage": 60.21,
+        "disk_usage": 57.51
+    },
+    {
+        "timestamp": "2025-07-21T05:36:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.11,
+        "memory_usage": 62.88,
+        "disk_usage": 47.11
+    },
+    {
+        "timestamp": "2025-07-21T05:37:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.37,
+        "memory_usage": 65.01,
+        "disk_usage": 50.42
+    },
+    {
+        "timestamp": "2025-07-21T05:38:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 47.79,
+        "memory_usage": 63.27,
+        "disk_usage": 49.7
+    },
+    {
+        "timestamp": "2025-07-21T05:39:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.65,
+        "memory_usage": 62.05,
+        "disk_usage": 53.99
+    },
+    {
+        "timestamp": "2025-07-21T05:40:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 41.1,
+        "memory_usage": 59.03,
+        "disk_usage": 48.59
+    },
+    {
+        "timestamp": "2025-07-21T05:41:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 46.17,
+        "memory_usage": 64.15,
+        "disk_usage": 53.92
+    },
+    {
+        "timestamp": "2025-07-21T05:42:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 45.92,
+        "memory_usage": 58.3,
+        "disk_usage": 55.68
+    },
+    {
+        "timestamp": "2025-07-21T05:43:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 41.9,
+        "memory_usage": 67.19,
+        "disk_usage": 53.56
+    },
+    {
+        "timestamp": "2025-07-21T05:44:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 41.82,
+        "memory_usage": 64.31,
+        "disk_usage": 52.24
+    },
+    {
+        "timestamp": "2025-07-21T05:45:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 45.08,
+        "memory_usage": 57.98,
+        "disk_usage": 48.34
+    },
+    {
+        "timestamp": "2025-07-21T05:46:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.42,
+        "memory_usage": 62.4,
+        "disk_usage": 48.68
+    },
+    {
+        "timestamp": "2025-07-21T05:47:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.36,
+        "memory_usage": 60.46,
+        "disk_usage": 54.88
+    },
+    {
+        "timestamp": "2025-07-21T05:48:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.54,
+        "memory_usage": 64.58,
+        "disk_usage": 53.38
+    },
+    {
+        "timestamp": "2025-07-21T05:49:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 41.81,
+        "memory_usage": 68.49,
+        "disk_usage": 50.84
+    },
+    {
+        "timestamp": "2025-07-21T05:50:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.17,
+        "memory_usage": 55.46,
+        "disk_usage": 49.62
+    },
+    {
+        "timestamp": "2025-07-21T05:51:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 49.73,
+        "memory_usage": 63.25,
+        "disk_usage": 44.71
+    },
+    {
+        "timestamp": "2025-07-21T05:52:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 46.38,
+        "memory_usage": 61.98,
+        "disk_usage": 47.49
+    },
+    {
+        "timestamp": "2025-07-21T05:53:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 41.03,
+        "memory_usage": 65.13,
+        "disk_usage": 56.34
+    },
+    {
+        "timestamp": "2025-07-21T05:54:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 41.47,
+        "memory_usage": 63.13,
+        "disk_usage": 46.68
+    },
+    {
+        "timestamp": "2025-07-21T05:55:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.3,
+        "memory_usage": 59.1,
+        "disk_usage": 51.0
+    },
+    {
+        "timestamp": "2025-07-21T05:56:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.95,
+        "memory_usage": 60.66,
+        "disk_usage": 53.37
+    },
+    {
+        "timestamp": "2025-07-21T05:57:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.34,
+        "memory_usage": 58.58,
+        "disk_usage": 46.5
+    },
+    {
+        "timestamp": "2025-07-21T05:58:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.14,
+        "memory_usage": 65.9,
+        "disk_usage": 50.73
+    },
+    {
+        "timestamp": "2025-07-21T05:59:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.13,
+        "memory_usage": 61.51,
+        "disk_usage": 52.9
+    },
+    {
+        "timestamp": "2025-07-21T06:00:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.6,
+        "memory_usage": 68.85,
+        "disk_usage": 50.04
+    },
+    {
+        "timestamp": "2025-07-21T06:01:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 47.4,
+        "memory_usage": 60.84,
+        "disk_usage": 58.52
+    },
+    {
+        "timestamp": "2025-07-21T06:02:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 38.93,
+        "memory_usage": 58.07,
+        "disk_usage": 44.82
+    },
+    {
+        "timestamp": "2025-07-21T06:03:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 41.22,
+        "memory_usage": 54.68,
+        "disk_usage": 52.91
+    },
+    {
+        "timestamp": "2025-07-21T06:04:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.4,
+        "memory_usage": 53.35,
+        "disk_usage": 49.13
+    },
+    {
+        "timestamp": "2025-07-21T06:05:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.69,
+        "memory_usage": 54.06,
+        "disk_usage": 51.88
+    },
+    {
+        "timestamp": "2025-07-21T06:06:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.55,
+        "memory_usage": 61.29,
+        "disk_usage": 50.8
+    },
+    {
+        "timestamp": "2025-07-21T06:07:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 38.23,
+        "memory_usage": 62.09,
+        "disk_usage": 47.19
+    },
+    {
+        "timestamp": "2025-07-21T06:08:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 38.4,
+        "memory_usage": 53.56,
+        "disk_usage": 49.99
+    },
+    {
+        "timestamp": "2025-07-21T06:09:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.78,
+        "memory_usage": 63.29,
+        "disk_usage": 43.64
+    },
+    {
+        "timestamp": "2025-07-21T06:10:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 37.51,
+        "memory_usage": 57.61,
+        "disk_usage": 50.94
+    },
+    {
+        "timestamp": "2025-07-21T06:11:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.61,
+        "memory_usage": 59.96,
+        "disk_usage": 49.94
+    },
+    {
+        "timestamp": "2025-07-21T06:12:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.12,
+        "memory_usage": 65.65,
+        "disk_usage": 50.87
+    },
+    {
+        "timestamp": "2025-07-21T06:13:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 41.4,
+        "memory_usage": 62.62,
+        "disk_usage": 52.04
+    },
+    {
+        "timestamp": "2025-07-21T06:14:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 47.11,
+        "memory_usage": 57.79,
+        "disk_usage": 49.88
+    },
+    {
+        "timestamp": "2025-07-21T06:15:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 32.25,
+        "memory_usage": 55.13,
+        "disk_usage": 49.14
+    },
+    {
+        "timestamp": "2025-07-21T06:16:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.19,
+        "memory_usage": 49.91,
+        "disk_usage": 45.97
+    },
+    {
+        "timestamp": "2025-07-21T06:17:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.48,
+        "memory_usage": 55.48,
+        "disk_usage": 46.39
+    },
+    {
+        "timestamp": "2025-07-21T06:18:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 46.26,
+        "memory_usage": 57.34,
+        "disk_usage": 52.0
+    },
+    {
+        "timestamp": "2025-07-21T06:19:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 31.01,
+        "memory_usage": 54.07,
+        "disk_usage": 52.66
+    },
+    {
+        "timestamp": "2025-07-21T06:20:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 30.59,
+        "memory_usage": 57.32,
+        "disk_usage": 47.55
+    },
+    {
+        "timestamp": "2025-07-21T06:21:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 31.54,
+        "memory_usage": 57.99,
+        "disk_usage": 48.32
+    },
+    {
+        "timestamp": "2025-07-21T06:22:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 23.66,
+        "memory_usage": 56.61,
+        "disk_usage": 45.38
+    },
+    {
+        "timestamp": "2025-07-21T06:23:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 31.39,
+        "memory_usage": 54.74,
+        "disk_usage": 51.52
+    },
+    {
+        "timestamp": "2025-07-21T06:24:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.97,
+        "memory_usage": 57.85,
+        "disk_usage": 49.92
+    },
+    {
+        "timestamp": "2025-07-21T06:25:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 34.26,
+        "memory_usage": 58.78,
+        "disk_usage": 53.66
+    },
+    {
+        "timestamp": "2025-07-21T06:26:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 34.96,
+        "memory_usage": 52.48,
+        "disk_usage": 45.12
+    },
+    {
+        "timestamp": "2025-07-21T06:27:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 42.38,
+        "memory_usage": 62.32,
+        "disk_usage": 46.53
+    },
+    {
+        "timestamp": "2025-07-21T06:28:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 37.49,
+        "memory_usage": 56.11,
+        "disk_usage": 48.28
+    },
+    {
+        "timestamp": "2025-07-21T06:29:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.6,
+        "memory_usage": 56.42,
+        "disk_usage": 49.44
+    },
+    {
+        "timestamp": "2025-07-21T06:30:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 27.74,
+        "memory_usage": 59.01,
+        "disk_usage": 46.76
+    },
+    {
+        "timestamp": "2025-07-21T06:31:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 34.44,
+        "memory_usage": 56.95,
+        "disk_usage": 44.71
+    },
+    {
+        "timestamp": "2025-07-21T06:32:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 25.13,
+        "memory_usage": 59.66,
+        "disk_usage": 49.89
+    },
+    {
+        "timestamp": "2025-07-21T06:33:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.64,
+        "memory_usage": 56.83,
+        "disk_usage": 49.32
+    },
+    {
+        "timestamp": "2025-07-21T06:34:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 37.13,
+        "memory_usage": 53.07,
+        "disk_usage": 44.33
+    },
+    {
+        "timestamp": "2025-07-21T06:35:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 28.63,
+        "memory_usage": 56.8,
+        "disk_usage": 51.06
+    },
+    {
+        "timestamp": "2025-07-21T06:36:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.16,
+        "memory_usage": 50.62,
+        "disk_usage": 50.42
+    },
+    {
+        "timestamp": "2025-07-21T06:37:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 37.25,
+        "memory_usage": 55.47,
+        "disk_usage": 47.23
+    },
+    {
+        "timestamp": "2025-07-21T06:38:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.66,
+        "memory_usage": 54.74,
+        "disk_usage": 46.98
+    },
+    {
+        "timestamp": "2025-07-21T06:39:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.17,
+        "memory_usage": 53.88,
+        "disk_usage": 48.32
+    },
+    {
+        "timestamp": "2025-07-21T06:40:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.77,
+        "memory_usage": 54.03,
+        "disk_usage": 43.99
+    },
+    {
+        "timestamp": "2025-07-21T06:41:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.5,
+        "memory_usage": 46.86,
+        "disk_usage": 46.59
+    },
+    {
+        "timestamp": "2025-07-21T06:42:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.28,
+        "memory_usage": 52.03,
+        "disk_usage": 39.96
+    },
+    {
+        "timestamp": "2025-07-21T06:43:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.24,
+        "memory_usage": 54.44,
+        "disk_usage": 48.96
+    },
+    {
+        "timestamp": "2025-07-21T06:44:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.51,
+        "memory_usage": 54.55,
+        "disk_usage": 41.57
+    },
+    {
+        "timestamp": "2025-07-21T06:45:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 31.63,
+        "memory_usage": 49.64,
+        "disk_usage": 50.68
+    },
+    {
+        "timestamp": "2025-07-21T06:46:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.94,
+        "memory_usage": 58.66,
+        "disk_usage": 45.1
+    },
+    {
+        "timestamp": "2025-07-21T06:47:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 27.33,
+        "memory_usage": 49.97,
+        "disk_usage": 45.38
+    },
+    {
+        "timestamp": "2025-07-21T06:48:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 28.4,
+        "memory_usage": 57.16,
+        "disk_usage": 44.05
+    },
+    {
+        "timestamp": "2025-07-21T06:49:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 30.13,
+        "memory_usage": 54.84,
+        "disk_usage": 44.99
+    },
+    {
+        "timestamp": "2025-07-21T06:50:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 30.88,
+        "memory_usage": 50.39,
+        "disk_usage": 50.03
+    },
+    {
+        "timestamp": "2025-07-21T06:51:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.46,
+        "memory_usage": 59.92,
+        "disk_usage": 38.23
+    },
+    {
+        "timestamp": "2025-07-21T06:52:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.18,
+        "memory_usage": 47.89,
+        "disk_usage": 49.45
+    },
+    {
+        "timestamp": "2025-07-21T06:53:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.0,
+        "memory_usage": 56.19,
+        "disk_usage": 46.55
+    },
+    {
+        "timestamp": "2025-07-21T06:54:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 28.04,
+        "memory_usage": 56.36,
+        "disk_usage": 41.84
+    },
+    {
+        "timestamp": "2025-07-21T06:55:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.41,
+        "memory_usage": 49.52,
+        "disk_usage": 42.16
+    },
+    {
+        "timestamp": "2025-07-21T06:56:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.67,
+        "memory_usage": 57.62,
+        "disk_usage": 50.33
+    },
+    {
+        "timestamp": "2025-07-21T06:57:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.26,
+        "memory_usage": 50.9,
+        "disk_usage": 42.39
+    },
+    {
+        "timestamp": "2025-07-21T06:58:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 31.35,
+        "memory_usage": 52.91,
+        "disk_usage": 41.69
+    },
+    {
+        "timestamp": "2025-07-21T06:59:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 25.56,
+        "memory_usage": 52.65,
+        "disk_usage": 48.49
+    },
+    {
+        "timestamp": "2025-07-21T07:00:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 35.3,
+        "memory_usage": 50.92,
+        "disk_usage": 46.02
+    },
+    {
+        "timestamp": "2025-07-21T07:01:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.55,
+        "memory_usage": 54.55,
+        "disk_usage": 42.11
+    },
+    {
+        "timestamp": "2025-07-21T07:02:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 23.3,
+        "memory_usage": 54.34,
+        "disk_usage": 45.5
+    },
+    {
+        "timestamp": "2025-07-21T07:03:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.18,
+        "memory_usage": 44.02,
+        "disk_usage": 41.7
+    },
+    {
+        "timestamp": "2025-07-21T07:04:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 27.33,
+        "memory_usage": 56.09,
+        "disk_usage": 48.0
+    },
+    {
+        "timestamp": "2025-07-21T07:05:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 30.72,
+        "memory_usage": 44.08,
+        "disk_usage": 47.81
+    },
+    {
+        "timestamp": "2025-07-21T07:06:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 18.84,
+        "memory_usage": 54.72,
+        "disk_usage": 46.15
+    },
+    {
+        "timestamp": "2025-07-21T07:07:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.87,
+        "memory_usage": 54.95,
+        "disk_usage": 45.57
+    },
+    {
+        "timestamp": "2025-07-21T07:08:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 28.52,
+        "memory_usage": 45.94,
+        "disk_usage": 49.69
+    },
+    {
+        "timestamp": "2025-07-21T07:09:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.21,
+        "memory_usage": 48.52,
+        "disk_usage": 44.33
+    },
+    {
+        "timestamp": "2025-07-21T07:10:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 16.88,
+        "memory_usage": 45.6,
+        "disk_usage": 40.72
+    },
+    {
+        "timestamp": "2025-07-21T07:11:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.38,
+        "memory_usage": 49.02,
+        "disk_usage": 45.54
+    },
+    {
+        "timestamp": "2025-07-21T07:12:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.02,
+        "memory_usage": 48.51,
+        "disk_usage": 50.38
+    },
+    {
+        "timestamp": "2025-07-21T07:13:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 25.74,
+        "memory_usage": 52.73,
+        "disk_usage": 41.01
+    },
+    {
+        "timestamp": "2025-07-21T07:14:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.46,
+        "memory_usage": 54.71,
+        "disk_usage": 42.9
+    },
+    {
+        "timestamp": "2025-07-21T07:15:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.11,
+        "memory_usage": 54.92,
+        "disk_usage": 45.16
+    },
+    {
+        "timestamp": "2025-07-21T07:16:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.67,
+        "memory_usage": 46.95,
+        "disk_usage": 43.68
+    },
+    {
+        "timestamp": "2025-07-21T07:17:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.42,
+        "memory_usage": 48.23,
+        "disk_usage": 40.83
+    },
+    {
+        "timestamp": "2025-07-21T07:18:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.6,
+        "memory_usage": 42.2,
+        "disk_usage": 47.07
+    },
+    {
+        "timestamp": "2025-07-21T07:19:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.64,
+        "memory_usage": 45.58,
+        "disk_usage": 50.6
+    },
+    {
+        "timestamp": "2025-07-21T07:20:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.64,
+        "memory_usage": 52.53,
+        "disk_usage": 44.16
+    },
+    {
+        "timestamp": "2025-07-21T07:21:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.35,
+        "memory_usage": 55.0,
+        "disk_usage": 40.79
+    },
+    {
+        "timestamp": "2025-07-21T07:22:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.98,
+        "memory_usage": 43.48,
+        "disk_usage": 38.79
+    },
+    {
+        "timestamp": "2025-07-21T07:23:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.68,
+        "memory_usage": 45.92,
+        "disk_usage": 44.15
+    },
+    {
+        "timestamp": "2025-07-21T07:24:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.4,
+        "memory_usage": 48.05,
+        "disk_usage": 46.62
+    },
+    {
+        "timestamp": "2025-07-21T07:25:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 23.08,
+        "memory_usage": 49.15,
+        "disk_usage": 44.67
+    },
+    {
+        "timestamp": "2025-07-21T07:26:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.37,
+        "memory_usage": 44.67,
+        "disk_usage": 43.17
+    },
+    {
+        "timestamp": "2025-07-21T07:27:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.65,
+        "memory_usage": 49.48,
+        "disk_usage": 41.35
+    },
+    {
+        "timestamp": "2025-07-21T07:28:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 16.59,
+        "memory_usage": 45.77,
+        "disk_usage": 39.78
+    },
+    {
+        "timestamp": "2025-07-21T07:29:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.68,
+        "memory_usage": 47.48,
+        "disk_usage": 45.5
+    },
+    {
+        "timestamp": "2025-07-21T07:30:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 18.47,
+        "memory_usage": 49.61,
+        "disk_usage": 45.67
+    },
+    {
+        "timestamp": "2025-07-21T07:31:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 23.38,
+        "memory_usage": 47.33,
+        "disk_usage": 38.23
+    },
+    {
+        "timestamp": "2025-07-21T07:32:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.49,
+        "memory_usage": 45.44,
+        "disk_usage": 47.58
+    },
+    {
+        "timestamp": "2025-07-21T07:33:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.76,
+        "memory_usage": 46.63,
+        "disk_usage": 44.47
+    },
+    {
+        "timestamp": "2025-07-21T07:34:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 15.41,
+        "memory_usage": 46.6,
+        "disk_usage": 46.89
+    },
+    {
+        "timestamp": "2025-07-21T07:35:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.92,
+        "memory_usage": 45.35,
+        "disk_usage": 38.6
+    },
+    {
+        "timestamp": "2025-07-21T07:36:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.17,
+        "memory_usage": 45.69,
+        "disk_usage": 38.47
+    },
+    {
+        "timestamp": "2025-07-21T07:37:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.36,
+        "memory_usage": 53.0,
+        "disk_usage": 42.06
+    },
+    {
+        "timestamp": "2025-07-21T07:38:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.59,
+        "memory_usage": 48.74,
+        "disk_usage": 43.96
+    },
+    {
+        "timestamp": "2025-07-21T07:39:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.2,
+        "memory_usage": 45.2,
+        "disk_usage": 47.79
+    },
+    {
+        "timestamp": "2025-07-21T07:40:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.84,
+        "memory_usage": 49.06,
+        "disk_usage": 44.46
+    },
+    {
+        "timestamp": "2025-07-21T07:41:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.03,
+        "memory_usage": 44.83,
+        "disk_usage": 41.56
+    },
+    {
+        "timestamp": "2025-07-21T07:42:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.19,
+        "memory_usage": 50.75,
+        "disk_usage": 39.15
+    },
+    {
+        "timestamp": "2025-07-21T07:43:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.59,
+        "memory_usage": 47.43,
+        "disk_usage": 45.86
+    },
+    {
+        "timestamp": "2025-07-21T07:44:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 15.8,
+        "memory_usage": 45.42,
+        "disk_usage": 39.23
+    },
+    {
+        "timestamp": "2025-07-21T07:45:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 15.09,
+        "memory_usage": 47.54,
+        "disk_usage": 46.95
+    },
+    {
+        "timestamp": "2025-07-21T07:46:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.11,
+        "memory_usage": 39.36,
+        "disk_usage": 41.16
+    },
+    {
+        "timestamp": "2025-07-21T07:47:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.67,
+        "memory_usage": 41.04,
+        "disk_usage": 46.73
+    },
+    {
+        "timestamp": "2025-07-21T07:48:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.08,
+        "memory_usage": 40.67,
+        "disk_usage": 43.95
+    },
+    {
+        "timestamp": "2025-07-21T07:49:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.7,
+        "memory_usage": 45.92,
+        "disk_usage": 41.45
+    },
+    {
+        "timestamp": "2025-07-21T07:50:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.05,
+        "memory_usage": 52.18,
+        "disk_usage": 40.25
+    },
+    {
+        "timestamp": "2025-07-21T07:51:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 3.77,
+        "memory_usage": 54.08,
+        "disk_usage": 40.74
+    },
+    {
+        "timestamp": "2025-07-21T07:52:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.55,
+        "memory_usage": 47.61,
+        "disk_usage": 42.99
+    },
+    {
+        "timestamp": "2025-07-21T07:53:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.82,
+        "memory_usage": 46.97,
+        "disk_usage": 41.89
+    },
+    {
+        "timestamp": "2025-07-21T07:54:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 23.06,
+        "memory_usage": 37.67,
+        "disk_usage": 39.83,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T07:55:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.45,
+        "memory_usage": 42.61,
+        "disk_usage": 41.07
+    },
+    {
+        "timestamp": "2025-07-21T07:56:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.44,
+        "memory_usage": 41.54,
+        "disk_usage": 41.76
+    },
+    {
+        "timestamp": "2025-07-21T07:57:00Z",
+        "level": "ERROR",
+        "msg": "Service restart initiated due to crash",
+        "reason": "Service failure",
+        "cpu_usage": 15.98,
+        "memory_usage": 42.12,
+        "disk_usage": 35.09,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T07:58:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.68,
+        "memory_usage": 43.84,
+        "disk_usage": 42.8
+    },
+    {
+        "timestamp": "2025-07-21T07:59:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.75,
+        "memory_usage": 42.54,
+        "disk_usage": 38.44
+    },
+    {
+        "timestamp": "2025-07-21T08:00:00Z",
+        "level": "ERROR",
+        "msg": "High CPU utilization detected",
+        "reason": "CPU spike",
+        "cpu_usage": 13.38,
+        "memory_usage": 36.43,
+        "disk_usage": 37.88,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:01:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.11,
+        "memory_usage": 47.25,
+        "disk_usage": 36.23
+    },
+    {
+        "timestamp": "2025-07-21T08:02:00Z",
+        "level": "ERROR",
+        "msg": "Disk write latency increased",
+        "reason": "Disk I/O issue",
+        "cpu_usage": 5.73,
+        "memory_usage": 39.89,
+        "disk_usage": 35.87,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:03:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.65,
+        "memory_usage": 45.06,
+        "disk_usage": 37.15
+    },
+    {
+        "timestamp": "2025-07-21T08:04:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.73,
+        "memory_usage": 52.32,
+        "disk_usage": 39.04
+    },
+    {
+        "timestamp": "2025-07-21T08:05:00Z",
+        "level": "ERROR",
+        "msg": "Memory pressure detected",
+        "reason": "Memory threshold exceeded",
+        "cpu_usage": 6.28,
+        "memory_usage": 40.27,
+        "disk_usage": 46.99,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:06:00Z",
+        "level": "ERROR",
+        "msg": "Application process not responding",
+        "reason": "App freeze",
+        "cpu_usage": 10.04,
+        "memory_usage": 33.75,
+        "disk_usage": 39.51,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:07:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.74,
+        "memory_usage": 42.65,
+        "disk_usage": 41.58
+    },
+    {
+        "timestamp": "2025-07-21T08:08:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.47,
+        "memory_usage": 48.12,
+        "disk_usage": 42.21
+    },
+    {
+        "timestamp": "2025-07-21T08:09:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.33,
+        "memory_usage": 51.48,
+        "disk_usage": 41.37
+    },
+    {
+        "timestamp": "2025-07-21T08:10:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.77,
+        "memory_usage": 38.66,
+        "disk_usage": 40.7
+    },
+    {
+        "timestamp": "2025-07-21T08:11:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.1,
+        "memory_usage": 45.49,
+        "disk_usage": 37.31
+    },
+    {
+        "timestamp": "2025-07-21T08:12:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.98,
+        "memory_usage": 41.58,
+        "disk_usage": 45.22
+    },
+    {
+        "timestamp": "2025-07-21T08:13:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.18,
+        "memory_usage": 42.95,
+        "disk_usage": 46.25
+    },
+    {
+        "timestamp": "2025-07-21T08:14:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.0,
+        "memory_usage": 53.88,
+        "disk_usage": 35.75
+    },
+    {
+        "timestamp": "2025-07-21T08:15:00Z",
+        "level": "ERROR",
+        "msg": "Database connection timeout",
+        "reason": "DB timeout",
+        "cpu_usage": 14.98,
+        "memory_usage": 37.23,
+        "disk_usage": 37.69,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:16:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.0,
+        "memory_usage": 44.19,
+        "disk_usage": 39.89
+    },
+    {
+        "timestamp": "2025-07-21T08:17:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.14,
+        "memory_usage": 44.99,
+        "disk_usage": 37.8
+    },
+    {
+        "timestamp": "2025-07-21T08:18:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.61,
+        "memory_usage": 47.4,
+        "disk_usage": 42.18
+    },
+    {
+        "timestamp": "2025-07-21T08:19:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 4.99,
+        "memory_usage": 43.39,
+        "disk_usage": 38.45
+    },
+    {
+        "timestamp": "2025-07-21T08:20:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 16.44,
+        "memory_usage": 44.17,
+        "disk_usage": 47.1
+    },
+    {
+        "timestamp": "2025-07-21T08:21:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.27,
+        "memory_usage": 41.32,
+        "disk_usage": 44.15
+    },
+    {
+        "timestamp": "2025-07-21T08:22:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 4.64,
+        "memory_usage": 43.91,
+        "disk_usage": 41.18
+    },
+    {
+        "timestamp": "2025-07-21T08:23:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.37,
+        "memory_usage": 41.41,
+        "disk_usage": 43.6
+    },
+    {
+        "timestamp": "2025-07-21T08:24:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.22,
+        "memory_usage": 45.22,
+        "disk_usage": 43.81
+    },
+    {
+        "timestamp": "2025-07-21T08:25:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.95,
+        "memory_usage": 41.2,
+        "disk_usage": 38.77
+    },
+    {
+        "timestamp": "2025-07-21T08:26:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.35,
+        "memory_usage": 44.14,
+        "disk_usage": 37.99
+    },
+    {
+        "timestamp": "2025-07-21T08:27:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 6.92,
+        "memory_usage": 42.47,
+        "disk_usage": 40.65
+    },
+    {
+        "timestamp": "2025-07-21T08:28:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.4,
+        "memory_usage": 47.04,
+        "disk_usage": 42.97
+    },
+    {
+        "timestamp": "2025-07-21T08:29:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 6.94,
+        "memory_usage": 42.29,
+        "disk_usage": 40.78
+    },
+    {
+        "timestamp": "2025-07-21T08:30:00Z",
+        "level": "ERROR",
+        "msg": "Network packet loss detected",
+        "reason": "Network issue",
+        "cpu_usage": 12.37,
+        "memory_usage": 35.36,
+        "disk_usage": 35.61,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:31:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.7,
+        "memory_usage": 47.46,
+        "disk_usage": 37.91
+    },
+    {
+        "timestamp": "2025-07-21T08:32:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.7,
+        "memory_usage": 38.75,
+        "disk_usage": 40.08
+    },
+    {
+        "timestamp": "2025-07-21T08:33:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 6.29,
+        "memory_usage": 39.72,
+        "disk_usage": 40.05
+    },
+    {
+        "timestamp": "2025-07-21T08:34:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.89,
+        "memory_usage": 39.91,
+        "disk_usage": 46.17
+    },
+    {
+        "timestamp": "2025-07-21T08:35:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.49,
+        "memory_usage": 47.76,
+        "disk_usage": 36.08
+    },
+    {
+        "timestamp": "2025-07-21T08:36:00Z",
+        "level": "ERROR",
+        "msg": "Service restart initiated due to crash",
+        "reason": "Service failure",
+        "cpu_usage": 13.16,
+        "memory_usage": 33.69,
+        "disk_usage": 41.74,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:37:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 5.71,
+        "memory_usage": 54.75,
+        "disk_usage": 44.67
+    },
+    {
+        "timestamp": "2025-07-21T08:38:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.05,
+        "memory_usage": 46.39,
+        "disk_usage": 47.0
+    },
+    {
+        "timestamp": "2025-07-21T08:39:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.26,
+        "memory_usage": 43.03,
+        "disk_usage": 38.95
+    },
+    {
+        "timestamp": "2025-07-21T08:40:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 2.11,
+        "memory_usage": 41.89,
+        "disk_usage": 41.63
+    },
+    {
+        "timestamp": "2025-07-21T08:41:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.13,
+        "memory_usage": 43.23,
+        "disk_usage": 41.85
+    },
+    {
+        "timestamp": "2025-07-21T08:42:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.06,
+        "memory_usage": 44.14,
+        "disk_usage": 40.71
+    },
+    {
+        "timestamp": "2025-07-21T08:43:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.18,
+        "memory_usage": 44.62,
+        "disk_usage": 39.81
+    },
+    {
+        "timestamp": "2025-07-21T08:44:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 6.48,
+        "memory_usage": 44.24,
+        "disk_usage": 41.41
+    },
+    {
+        "timestamp": "2025-07-21T08:45:00Z",
+        "level": "ERROR",
+        "msg": "Memory pressure detected",
+        "reason": "Memory threshold exceeded",
+        "cpu_usage": 1.23,
+        "memory_usage": 42.35,
+        "disk_usage": 32.49,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:46:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 2.09,
+        "memory_usage": 41.19,
+        "disk_usage": 42.12
+    },
+    {
+        "timestamp": "2025-07-21T08:47:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.43,
+        "memory_usage": 41.35,
+        "disk_usage": 40.44
+    },
+    {
+        "timestamp": "2025-07-21T08:48:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.46,
+        "memory_usage": 41.16,
+        "disk_usage": 39.39
+    },
+    {
+        "timestamp": "2025-07-21T08:49:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 5.62,
+        "memory_usage": 46.46,
+        "disk_usage": 46.19
+    },
+    {
+        "timestamp": "2025-07-21T08:50:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.31,
+        "memory_usage": 44.29,
+        "disk_usage": 38.01
+    },
+    {
+        "timestamp": "2025-07-21T08:51:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 1.78,
+        "memory_usage": 30.14,
+        "disk_usage": 38.82,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:52:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.74,
+        "memory_usage": 44.52,
+        "disk_usage": 46.0
+    },
+    {
+        "timestamp": "2025-07-21T08:53:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 4.0,
+        "memory_usage": 42.67,
+        "disk_usage": 37.52
+    },
+    {
+        "timestamp": "2025-07-21T08:54:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 6.78,
+        "memory_usage": 41.81,
+        "disk_usage": 38.36
+    },
+    {
+        "timestamp": "2025-07-21T08:55:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.27,
+        "memory_usage": 40.32,
+        "disk_usage": 39.57
+    },
+    {
+        "timestamp": "2025-07-21T08:56:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 5.72,
+        "memory_usage": 46.37,
+        "disk_usage": 42.53
+    },
+    {
+        "timestamp": "2025-07-21T08:57:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.09,
+        "memory_usage": 45.66,
+        "disk_usage": 40.63
+    },
+    {
+        "timestamp": "2025-07-21T08:58:00Z",
+        "level": "ERROR",
+        "msg": "High CPU utilization detected",
+        "reason": "CPU spike",
+        "cpu_usage": 15.04,
+        "memory_usage": 38.78,
+        "disk_usage": 36.12,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T08:59:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.12,
+        "memory_usage": 43.5,
+        "disk_usage": 38.4
+    },
+    {
+        "timestamp": "2025-07-21T09:00:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.18,
+        "memory_usage": 37.99,
+        "disk_usage": 38.18
+    },
+    {
+        "timestamp": "2025-07-21T09:01:00Z",
+        "level": "ERROR",
+        "msg": "Network packet loss detected",
+        "reason": "Network issue",
+        "cpu_usage": 4.35,
+        "memory_usage": 36.36,
+        "disk_usage": 39.77,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:02:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.65,
+        "memory_usage": 39.38,
+        "disk_usage": 41.28
+    },
+    {
+        "timestamp": "2025-07-21T09:03:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.22,
+        "memory_usage": 45.34,
+        "disk_usage": 41.26
+    },
+    {
+        "timestamp": "2025-07-21T09:04:00Z",
+        "level": "ERROR",
+        "msg": "Service restart initiated due to crash",
+        "reason": "Service failure",
+        "cpu_usage": 0.0,
+        "memory_usage": 45.71,
+        "disk_usage": 34.68,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:05:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 6.04,
+        "memory_usage": 43.96,
+        "disk_usage": 43.2
+    },
+    {
+        "timestamp": "2025-07-21T09:06:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.93,
+        "memory_usage": 44.82,
+        "disk_usage": 40.77
+    },
+    {
+        "timestamp": "2025-07-21T09:07:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.04,
+        "memory_usage": 44.0,
+        "disk_usage": 44.17
+    },
+    {
+        "timestamp": "2025-07-21T09:08:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.93,
+        "memory_usage": 39.39,
+        "disk_usage": 41.36
+    },
+    {
+        "timestamp": "2025-07-21T09:09:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.07,
+        "memory_usage": 43.7,
+        "disk_usage": 43.33
+    },
+    {
+        "timestamp": "2025-07-21T09:10:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.55,
+        "memory_usage": 45.19,
+        "disk_usage": 41.44
+    },
+    {
+        "timestamp": "2025-07-21T09:11:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.36,
+        "memory_usage": 45.02,
+        "disk_usage": 44.08
+    },
+    {
+        "timestamp": "2025-07-21T09:12:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 16.0,
+        "memory_usage": 46.78,
+        "disk_usage": 41.62
+    },
+    {
+        "timestamp": "2025-07-21T09:13:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.46,
+        "memory_usage": 44.88,
+        "disk_usage": 39.77
+    },
+    {
+        "timestamp": "2025-07-21T09:14:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.91,
+        "memory_usage": 43.48,
+        "disk_usage": 46.89
+    },
+    {
+        "timestamp": "2025-07-21T09:15:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.2,
+        "memory_usage": 46.38,
+        "disk_usage": 42.75
+    },
+    {
+        "timestamp": "2025-07-21T09:16:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 7.85,
+        "memory_usage": 42.02,
+        "disk_usage": 41.82
+    },
+    {
+        "timestamp": "2025-07-21T09:17:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 8.17,
+        "memory_usage": 38.63,
+        "disk_usage": 36.28,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:18:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.34,
+        "memory_usage": 41.53,
+        "disk_usage": 36.26
+    },
+    {
+        "timestamp": "2025-07-21T09:19:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.31,
+        "memory_usage": 39.24,
+        "disk_usage": 41.02
+    },
+    {
+        "timestamp": "2025-07-21T09:20:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.9,
+        "memory_usage": 39.55,
+        "disk_usage": 40.59
+    },
+    {
+        "timestamp": "2025-07-21T09:21:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.88,
+        "memory_usage": 41.7,
+        "disk_usage": 38.33
+    },
+    {
+        "timestamp": "2025-07-21T09:22:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.91,
+        "memory_usage": 39.15,
+        "disk_usage": 40.61
+    },
+    {
+        "timestamp": "2025-07-21T09:23:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.97,
+        "memory_usage": 41.12,
+        "disk_usage": 44.97
+    },
+    {
+        "timestamp": "2025-07-21T09:24:00Z",
+        "level": "ERROR",
+        "msg": "Disk write latency increased",
+        "reason": "Disk I/O issue",
+        "cpu_usage": 16.66,
+        "memory_usage": 34.82,
+        "disk_usage": 42.3,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:25:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.67,
+        "memory_usage": 43.29,
+        "disk_usage": 36.81
+    },
+    {
+        "timestamp": "2025-07-21T09:26:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 0.58,
+        "memory_usage": 42.48,
+        "disk_usage": 39.92
+    },
+    {
+        "timestamp": "2025-07-21T09:27:00Z",
+        "level": "ERROR",
+        "msg": "Service restart initiated due to crash",
+        "reason": "Service failure",
+        "cpu_usage": 5.79,
+        "memory_usage": 39.25,
+        "disk_usage": 37.86,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:28:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 1.54,
+        "memory_usage": 45.2,
+        "disk_usage": 39.13
+    },
+    {
+        "timestamp": "2025-07-21T09:29:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.2,
+        "memory_usage": 46.36,
+        "disk_usage": 39.08
+    },
+    {
+        "timestamp": "2025-07-21T09:30:00Z",
+        "level": "ERROR",
+        "msg": "Service restart initiated due to crash",
+        "reason": "Service failure",
+        "cpu_usage": 11.11,
+        "memory_usage": 36.23,
+        "disk_usage": 38.91,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:31:00Z",
+        "level": "ERROR",
+        "msg": "Memory pressure detected",
+        "reason": "Memory threshold exceeded",
+        "cpu_usage": 19.47,
+        "memory_usage": 39.66,
+        "disk_usage": 36.6,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:32:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.8,
+        "memory_usage": 39.68,
+        "disk_usage": 40.0
+    },
+    {
+        "timestamp": "2025-07-21T09:33:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.14,
+        "memory_usage": 39.05,
+        "disk_usage": 38.73
+    },
+    {
+        "timestamp": "2025-07-21T09:34:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 15.46,
+        "memory_usage": 46.18,
+        "disk_usage": 31.65,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:35:00Z",
+        "level": "ERROR",
+        "msg": "Memory pressure detected",
+        "reason": "Memory threshold exceeded",
+        "cpu_usage": 0.33,
+        "memory_usage": 42.15,
+        "disk_usage": 46.62,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:36:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.65,
+        "memory_usage": 41.92,
+        "disk_usage": 43.76
+    },
+    {
+        "timestamp": "2025-07-21T09:37:00Z",
+        "level": "ERROR",
+        "msg": "Database connection timeout",
+        "reason": "DB timeout",
+        "cpu_usage": 15.4,
+        "memory_usage": 35.02,
+        "disk_usage": 39.39,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:38:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 4.24,
+        "memory_usage": 45.64,
+        "disk_usage": 40.6
+    },
+    {
+        "timestamp": "2025-07-21T09:39:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 17.44,
+        "memory_usage": 38.2,
+        "disk_usage": 37.06,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:40:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.5,
+        "memory_usage": 43.46,
+        "disk_usage": 45.69
+    },
+    {
+        "timestamp": "2025-07-21T09:41:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 9.82,
+        "memory_usage": 44.39,
+        "disk_usage": 46.33
+    },
+    {
+        "timestamp": "2025-07-21T09:42:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 15.16,
+        "memory_usage": 48.79,
+        "disk_usage": 41.13
+    },
+    {
+        "timestamp": "2025-07-21T09:43:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 23.44,
+        "memory_usage": 38.18,
+        "disk_usage": 43.77
+    },
+    {
+        "timestamp": "2025-07-21T09:44:00Z",
+        "level": "ERROR",
+        "msg": "Application process not responding",
+        "reason": "App freeze",
+        "cpu_usage": 13.09,
+        "memory_usage": 31.41,
+        "disk_usage": 41.25,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:45:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.52,
+        "memory_usage": 44.29,
+        "disk_usage": 36.75
+    },
+    {
+        "timestamp": "2025-07-21T09:46:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.09,
+        "memory_usage": 50.83,
+        "disk_usage": 39.56
+    },
+    {
+        "timestamp": "2025-07-21T09:47:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.24,
+        "memory_usage": 48.65,
+        "disk_usage": 41.23
+    },
+    {
+        "timestamp": "2025-07-21T09:48:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 16.75,
+        "memory_usage": 44.61,
+        "disk_usage": 39.5
+    },
+    {
+        "timestamp": "2025-07-21T09:49:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.42,
+        "memory_usage": 41.88,
+        "disk_usage": 40.24
+    },
+    {
+        "timestamp": "2025-07-21T09:50:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.17,
+        "memory_usage": 47.15,
+        "disk_usage": 40.66
+    },
+    {
+        "timestamp": "2025-07-21T09:51:00Z",
+        "level": "WARN",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.53,
+        "memory_usage": 40.11,
+        "disk_usage": 40.73
+    },
+    {
+        "timestamp": "2025-07-21T09:52:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 15.43,
+        "memory_usage": 45.99,
+        "disk_usage": 41.17
+    },
+    {
+        "timestamp": "2025-07-21T09:53:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.82,
+        "memory_usage": 46.18,
+        "disk_usage": 37.87
+    },
+    {
+        "timestamp": "2025-07-21T09:54:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 18.46,
+        "memory_usage": 48.48,
+        "disk_usage": 38.94
+    },
+    {
+        "timestamp": "2025-07-21T09:55:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.84,
+        "memory_usage": 55.36,
+        "disk_usage": 37.28
+    },
+    {
+        "timestamp": "2025-07-21T09:56:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 12.16,
+        "memory_usage": 45.98,
+        "disk_usage": 44.1
+    },
+    {
+        "timestamp": "2025-07-21T09:57:00Z",
+        "level": "ERROR",
+        "msg": "Application process not responding",
+        "reason": "App freeze",
+        "cpu_usage": 8.74,
+        "memory_usage": 42.46,
+        "disk_usage": 34.89,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T09:58:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.54,
+        "memory_usage": 44.48,
+        "disk_usage": 44.71
+    },
+    {
+        "timestamp": "2025-07-21T09:59:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 15.78,
+        "memory_usage": 37.6,
+        "disk_usage": 45.46
+    },
+    {
+        "timestamp": "2025-07-21T10:00:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.8,
+        "memory_usage": 41.98,
+        "disk_usage": 40.43
+    },
+    {
+        "timestamp": "2025-07-21T10:01:00Z",
+        "level": "ERROR",
+        "msg": "Network packet loss detected",
+        "reason": "Network issue",
+        "cpu_usage": 9.54,
+        "memory_usage": 43.22,
+        "disk_usage": 33.57,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T10:02:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 18.63,
+        "memory_usage": 42.85,
+        "disk_usage": 40.34
+    },
+    {
+        "timestamp": "2025-07-21T10:03:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.2,
+        "memory_usage": 45.65,
+        "disk_usage": 41.28
+    },
+    {
+        "timestamp": "2025-07-21T10:04:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 16.63,
+        "memory_usage": 41.85,
+        "disk_usage": 38.49
+    },
+    {
+        "timestamp": "2025-07-21T10:05:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.08,
+        "memory_usage": 49.72,
+        "disk_usage": 40.02
+    },
+    {
+        "timestamp": "2025-07-21T10:06:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.97,
+        "memory_usage": 45.33,
+        "disk_usage": 46.2
+    },
+    {
+        "timestamp": "2025-07-21T10:07:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.76,
+        "memory_usage": 45.39,
+        "disk_usage": 43.66
+    },
+    {
+        "timestamp": "2025-07-21T10:08:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 6.24,
+        "memory_usage": 44.22,
+        "disk_usage": 38.94
+    },
+    {
+        "timestamp": "2025-07-21T10:09:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.76,
+        "memory_usage": 46.25,
+        "disk_usage": 36.97
+    },
+    {
+        "timestamp": "2025-07-21T10:10:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 18.7,
+        "memory_usage": 49.04,
+        "disk_usage": 40.83
+    },
+    {
+        "timestamp": "2025-07-21T10:11:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 15.3,
+        "memory_usage": 42.37,
+        "disk_usage": 41.22
+    },
+    {
+        "timestamp": "2025-07-21T10:12:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.13,
+        "memory_usage": 43.31,
+        "disk_usage": 43.4
+    },
+    {
+        "timestamp": "2025-07-21T10:13:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.26,
+        "memory_usage": 44.84,
+        "disk_usage": 40.36
+    },
+    {
+        "timestamp": "2025-07-21T10:14:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 28.27,
+        "memory_usage": 40.78,
+        "disk_usage": 43.55
+    },
+    {
+        "timestamp": "2025-07-21T10:15:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 16.85,
+        "memory_usage": 42.99,
+        "disk_usage": 47.87
+    },
+    {
+        "timestamp": "2025-07-21T10:16:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 16.91,
+        "memory_usage": 44.47,
+        "disk_usage": 44.57
+    },
+    {
+        "timestamp": "2025-07-21T10:17:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.15,
+        "memory_usage": 49.99,
+        "disk_usage": 42.03
+    },
+    {
+        "timestamp": "2025-07-21T10:18:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.09,
+        "memory_usage": 47.65,
+        "disk_usage": 41.68
+    },
+    {
+        "timestamp": "2025-07-21T10:19:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.97,
+        "memory_usage": 47.49,
+        "disk_usage": 41.21
+    },
+    {
+        "timestamp": "2025-07-21T10:20:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.07,
+        "memory_usage": 50.24,
+        "disk_usage": 45.88
+    },
+    {
+        "timestamp": "2025-07-21T10:21:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.55,
+        "memory_usage": 46.4,
+        "disk_usage": 40.51
+    },
+    {
+        "timestamp": "2025-07-21T10:22:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.77,
+        "memory_usage": 48.63,
+        "disk_usage": 42.59
+    },
+    {
+        "timestamp": "2025-07-21T10:23:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.26,
+        "memory_usage": 46.77,
+        "disk_usage": 42.66
+    },
+    {
+        "timestamp": "2025-07-21T10:24:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 25.67,
+        "memory_usage": 48.37,
+        "disk_usage": 41.06
+    },
+    {
+        "timestamp": "2025-07-21T10:25:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 15.33,
+        "memory_usage": 45.09,
+        "disk_usage": 38.51
+    },
+    {
+        "timestamp": "2025-07-21T10:26:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.11,
+        "memory_usage": 37.79,
+        "disk_usage": 43.66
+    },
+    {
+        "timestamp": "2025-07-21T10:27:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.61,
+        "memory_usage": 47.13,
+        "disk_usage": 42.56
+    },
+    {
+        "timestamp": "2025-07-21T10:28:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 18.7,
+        "memory_usage": 53.48,
+        "disk_usage": 44.31
+    },
+    {
+        "timestamp": "2025-07-21T10:29:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.07,
+        "memory_usage": 51.62,
+        "disk_usage": 41.27
+    },
+    {
+        "timestamp": "2025-07-21T10:30:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 10.32,
+        "memory_usage": 51.91,
+        "disk_usage": 46.59
+    },
+    {
+        "timestamp": "2025-07-21T10:31:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.62,
+        "memory_usage": 53.12,
+        "disk_usage": 40.36
+    },
+    {
+        "timestamp": "2025-07-21T10:32:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 18.37,
+        "memory_usage": 48.66,
+        "disk_usage": 48.19
+    },
+    {
+        "timestamp": "2025-07-21T10:33:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.21,
+        "memory_usage": 49.22,
+        "disk_usage": 37.87
+    },
+    {
+        "timestamp": "2025-07-21T10:34:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.48,
+        "memory_usage": 46.09,
+        "disk_usage": 44.48
+    },
+    {
+        "timestamp": "2025-07-21T10:35:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 11.46,
+        "memory_usage": 47.43,
+        "disk_usage": 44.67
+    },
+    {
+        "timestamp": "2025-07-21T10:36:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.04,
+        "memory_usage": 51.29,
+        "disk_usage": 40.92
+    },
+    {
+        "timestamp": "2025-07-21T10:37:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.49,
+        "memory_usage": 53.77,
+        "disk_usage": 44.65
+    },
+    {
+        "timestamp": "2025-07-21T10:38:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.87,
+        "memory_usage": 48.54,
+        "disk_usage": 47.28
+    },
+    {
+        "timestamp": "2025-07-21T10:39:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 14.04,
+        "memory_usage": 47.43,
+        "disk_usage": 36.86
+    },
+    {
+        "timestamp": "2025-07-21T10:40:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.04,
+        "memory_usage": 49.37,
+        "disk_usage": 45.08
+    },
+    {
+        "timestamp": "2025-07-21T10:41:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.26,
+        "memory_usage": 51.91,
+        "disk_usage": 36.16
+    },
+    {
+        "timestamp": "2025-07-21T10:42:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 19.82,
+        "memory_usage": 43.87,
+        "disk_usage": 40.81
+    },
+    {
+        "timestamp": "2025-07-21T10:43:00Z",
+        "level": "ERROR",
+        "msg": "Permission denied accessing /etc/config",
+        "reason": "Permission issue",
+        "cpu_usage": 13.81,
+        "memory_usage": 40.6,
+        "disk_usage": 48.66,
+        "instance_id": "i-0a1234b5678cdef9"
+    },
+    {
+        "timestamp": "2025-07-21T10:44:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.3,
+        "memory_usage": 47.72,
+        "disk_usage": 42.1
+    },
+    {
+        "timestamp": "2025-07-21T10:45:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 20.37,
+        "memory_usage": 45.18,
+        "disk_usage": 40.39
+    },
+    {
+        "timestamp": "2025-07-21T10:46:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 8.46,
+        "memory_usage": 48.17,
+        "disk_usage": 43.39
+    },
+    {
+        "timestamp": "2025-07-21T10:47:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.88,
+        "memory_usage": 49.76,
+        "disk_usage": 50.26
+    },
+    {
+        "timestamp": "2025-07-21T10:48:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.21,
+        "memory_usage": 48.68,
+        "disk_usage": 38.63
+    },
+    {
+        "timestamp": "2025-07-21T10:49:00Z",
+        "level": "DEBUG",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.06,
+        "memory_usage": 56.45,
+        "disk_usage": 41.04
+    },
+    {
+        "timestamp": "2025-07-21T10:50:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 32.04,
+        "memory_usage": 52.09,
+        "disk_usage": 48.76
+    },
+    {
+        "timestamp": "2025-07-21T10:51:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 28.64,
+        "memory_usage": 52.13,
+        "disk_usage": 49.91
+    },
+    {
+        "timestamp": "2025-07-21T10:52:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.88,
+        "memory_usage": 53.57,
+        "disk_usage": 44.1
+    },
+    {
+        "timestamp": "2025-07-21T10:53:00Z",
+        "level": "DEBUG",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.91,
+        "memory_usage": 46.67,
+        "disk_usage": 40.76
+    },
+    {
+        "timestamp": "2025-07-21T10:54:00Z",
+        "level": "WARN",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.53,
+        "memory_usage": 55.53,
+        "disk_usage": 50.84
+    },
+    {
+        "timestamp": "2025-07-21T10:55:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.18,
+        "memory_usage": 51.23,
+        "disk_usage": 49.41
+    },
+    {
+        "timestamp": "2025-07-21T10:56:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.17,
+        "memory_usage": 54.36,
+        "disk_usage": 46.74
+    },
+    {
+        "timestamp": "2025-07-21T10:57:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.2,
+        "memory_usage": 47.54,
+        "disk_usage": 42.34
+    },
+    {
+        "timestamp": "2025-07-21T10:58:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 25.54,
+        "memory_usage": 45.77,
+        "disk_usage": 44.7
+    },
+    {
+        "timestamp": "2025-07-21T10:59:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.05,
+        "memory_usage": 55.41,
+        "disk_usage": 44.44
+    },
+    {
+        "timestamp": "2025-07-21T11:00:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.13,
+        "memory_usage": 53.8,
+        "disk_usage": 45.99
+    },
+    {
+        "timestamp": "2025-07-21T11:01:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.49,
+        "memory_usage": 48.84,
+        "disk_usage": 49.43
+    },
+    {
+        "timestamp": "2025-07-21T11:02:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 25.29,
+        "memory_usage": 49.12,
+        "disk_usage": 47.79
+    },
+    {
+        "timestamp": "2025-07-21T11:03:00Z",
+        "level": "DEBUG",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.97,
+        "memory_usage": 57.26,
+        "disk_usage": 42.0
+    },
+    {
+        "timestamp": "2025-07-21T11:04:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 22.35,
+        "memory_usage": 48.16,
+        "disk_usage": 49.43
+    },
+    {
+        "timestamp": "2025-07-21T11:05:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.68,
+        "memory_usage": 59.64,
+        "disk_usage": 46.32
+    },
+    {
+        "timestamp": "2025-07-21T11:06:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 25.11,
+        "memory_usage": 49.63,
+        "disk_usage": 47.52
+    },
+    {
+        "timestamp": "2025-07-21T11:07:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 34.13,
+        "memory_usage": 55.95,
+        "disk_usage": 49.94
+    },
+    {
+        "timestamp": "2025-07-21T11:08:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 13.59,
+        "memory_usage": 52.24,
+        "disk_usage": 42.28
+    },
+    {
+        "timestamp": "2025-07-21T11:09:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 32.54,
+        "memory_usage": 56.13,
+        "disk_usage": 45.59
+    },
+    {
+        "timestamp": "2025-07-21T11:10:00Z",
+        "level": "DEBUG",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.55,
+        "memory_usage": 51.7,
+        "disk_usage": 44.18
+    },
+    {
+        "timestamp": "2025-07-21T11:11:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 17.19,
+        "memory_usage": 53.38,
+        "disk_usage": 41.15
+    },
+    {
+        "timestamp": "2025-07-21T11:12:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.08,
+        "memory_usage": 54.36,
+        "disk_usage": 46.97
+    },
+    {
+        "timestamp": "2025-07-21T11:13:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.18,
+        "memory_usage": 50.35,
+        "disk_usage": 53.55
+    },
+    {
+        "timestamp": "2025-07-21T11:14:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 21.24,
+        "memory_usage": 57.49,
+        "disk_usage": 40.57
+    },
+    {
+        "timestamp": "2025-07-21T11:15:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.63,
+        "memory_usage": 52.64,
+        "disk_usage": 46.08
+    },
+    {
+        "timestamp": "2025-07-21T11:16:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 23.21,
+        "memory_usage": 53.94,
+        "disk_usage": 48.18
+    },
+    {
+        "timestamp": "2025-07-21T11:17:00Z",
+        "level": "WARN",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 37.77,
+        "memory_usage": 51.04,
+        "disk_usage": 46.7
+    },
+    {
+        "timestamp": "2025-07-21T11:18:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.93,
+        "memory_usage": 44.94,
+        "disk_usage": 46.08
+    },
+    {
+        "timestamp": "2025-07-21T11:19:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 35.85,
+        "memory_usage": 54.59,
+        "disk_usage": 42.6
+    },
+    {
+        "timestamp": "2025-07-21T11:20:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.35,
+        "memory_usage": 65.17,
+        "disk_usage": 47.28
+    },
+    {
+        "timestamp": "2025-07-21T11:21:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.34,
+        "memory_usage": 58.83,
+        "disk_usage": 44.39
+    },
+    {
+        "timestamp": "2025-07-21T11:22:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 27.61,
+        "memory_usage": 55.78,
+        "disk_usage": 40.17
+    },
+    {
+        "timestamp": "2025-07-21T11:23:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 32.93,
+        "memory_usage": 54.97,
+        "disk_usage": 50.41
+    },
+    {
+        "timestamp": "2025-07-21T11:24:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 24.62,
+        "memory_usage": 56.28,
+        "disk_usage": 49.78
+    },
+    {
+        "timestamp": "2025-07-21T11:25:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 34.54,
+        "memory_usage": 58.55,
+        "disk_usage": 47.15
+    },
+    {
+        "timestamp": "2025-07-21T11:26:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 30.03,
+        "memory_usage": 51.81,
+        "disk_usage": 47.76
+    },
+    {
+        "timestamp": "2025-07-21T11:27:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.61,
+        "memory_usage": 61.16,
+        "disk_usage": 50.38
+    },
+    {
+        "timestamp": "2025-07-21T11:28:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 35.29,
+        "memory_usage": 59.74,
+        "disk_usage": 47.92
+    },
+    {
+        "timestamp": "2025-07-21T11:29:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 34.2,
+        "memory_usage": 59.92,
+        "disk_usage": 50.04
+    },
+    {
+        "timestamp": "2025-07-21T11:30:00Z",
+        "level": "DEBUG",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 30.43,
+        "memory_usage": 58.97,
+        "disk_usage": 46.52
+    },
+    {
+        "timestamp": "2025-07-21T11:31:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 38.29,
+        "memory_usage": 57.47,
+        "disk_usage": 51.43
+    },
+    {
+        "timestamp": "2025-07-21T11:32:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 27.34,
+        "memory_usage": 60.26,
+        "disk_usage": 48.54
+    },
+    {
+        "timestamp": "2025-07-21T11:33:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.08,
+        "memory_usage": 60.1,
+        "disk_usage": 48.25
+    },
+    {
+        "timestamp": "2025-07-21T11:34:00Z",
+        "level": "WARN",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 36.22,
+        "memory_usage": 56.49,
+        "disk_usage": 43.94
+    },
+    {
+        "timestamp": "2025-07-21T11:35:00Z",
+        "level": "DEBUG",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 31.96,
+        "memory_usage": 55.79,
+        "disk_usage": 48.7
+    },
+    {
+        "timestamp": "2025-07-21T11:36:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 35.39,
+        "memory_usage": 58.67,
+        "disk_usage": 45.43
+    },
+    {
+        "timestamp": "2025-07-21T11:37:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 27.76,
+        "memory_usage": 64.63,
+        "disk_usage": 46.09
+    },
+    {
+        "timestamp": "2025-07-21T11:38:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 38.9,
+        "memory_usage": 53.65,
+        "disk_usage": 45.65
+    },
+    {
+        "timestamp": "2025-07-21T11:39:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 33.61,
+        "memory_usage": 52.91,
+        "disk_usage": 44.98
+    },
+    {
+        "timestamp": "2025-07-21T11:40:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 32.18,
+        "memory_usage": 59.62,
+        "disk_usage": 54.64
+    },
+    {
+        "timestamp": "2025-07-21T11:41:00Z",
+        "level": "INFO",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.29,
+        "memory_usage": 59.34,
+        "disk_usage": 52.34
+    },
+    {
+        "timestamp": "2025-07-21T11:42:00Z",
+        "level": "INFO",
+        "msg": "Health check OK",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 31.79,
+        "memory_usage": 60.0,
+        "disk_usage": 54.2
+    },
+    {
+        "timestamp": "2025-07-21T11:43:00Z",
+        "level": "DEBUG",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 28.52,
+        "memory_usage": 60.46,
+        "disk_usage": 44.85
+    },
+    {
+        "timestamp": "2025-07-21T11:44:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 28.04,
+        "memory_usage": 58.77,
+        "disk_usage": 48.82
+    },
+    {
+        "timestamp": "2025-07-21T11:45:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.11,
+        "memory_usage": 65.8,
+        "disk_usage": 44.81
+    },
+    {
+        "timestamp": "2025-07-21T11:46:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 29.94,
+        "memory_usage": 53.61,
+        "disk_usage": 46.69
+    },
+    {
+        "timestamp": "2025-07-21T11:47:00Z",
+        "level": "INFO",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 45.38,
+        "memory_usage": 56.88,
+        "disk_usage": 46.11
+    },
+    {
+        "timestamp": "2025-07-21T11:48:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 26.45,
+        "memory_usage": 59.95,
+        "disk_usage": 52.67
+    },
+    {
+        "timestamp": "2025-07-21T11:49:00Z",
+        "level": "WARN",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 45.61,
+        "memory_usage": 53.97,
+        "disk_usage": 47.85
+    },
+    {
+        "timestamp": "2025-07-21T11:50:00Z",
+        "level": "WARN",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 38.44,
+        "memory_usage": 60.02,
+        "disk_usage": 52.33
+    },
+    {
+        "timestamp": "2025-07-21T11:51:00Z",
+        "level": "INFO",
+        "msg": "Instance heartbeat received",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 37.16,
+        "memory_usage": 67.55,
+        "disk_usage": 51.03
+    },
+    {
+        "timestamp": "2025-07-21T11:52:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 35.18,
+        "memory_usage": 61.16,
+        "disk_usage": 56.21
+    },
+    {
+        "timestamp": "2025-07-21T11:53:00Z",
+        "level": "INFO",
+        "msg": "Disk I/O within normal limits",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 40.16,
+        "memory_usage": 62.18,
+        "disk_usage": 44.95
+    },
+    {
+        "timestamp": "2025-07-21T11:54:00Z",
+        "level": "INFO",
+        "msg": "Routine backup executed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 38.24,
+        "memory_usage": 56.39,
+        "disk_usage": 53.25
+    },
+    {
+        "timestamp": "2025-07-21T11:55:00Z",
+        "level": "INFO",
+        "msg": "Memory usage normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 44.21,
+        "memory_usage": 59.14,
+        "disk_usage": 53.0
+    },
+    {
+        "timestamp": "2025-07-21T11:56:00Z",
+        "level": "WARN",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.52,
+        "memory_usage": 60.29,
+        "disk_usage": 46.73
+    },
+    {
+        "timestamp": "2025-07-21T11:57:00Z",
+        "level": "DEBUG",
+        "msg": "System check passed",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.97,
+        "memory_usage": 60.7,
+        "disk_usage": 52.76
+    },
+    {
+        "timestamp": "2025-07-21T11:58:00Z",
+        "level": "INFO",
+        "msg": "Network latency normal",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 37.66,
+        "memory_usage": 67.27,
+        "disk_usage": 50.83
+    },
+    {
+        "timestamp": "2025-07-21T11:59:00Z",
+        "level": "WARN",
+        "msg": "Background process completed successfully",
+        "instance_id": "i-0a1234b5678cdef9",
+        "cpu_usage": 39.45,
+        "memory_usage": 64.55,
+        "disk_usage": 49.23
+    }
+]
