@@ -1,0 +1,17 @@
+# Virtual environments
+Smartops/
+venv/
+.env/
+*.egg-info/
+
+# OS junk
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large model/data directories
+models/
+data/
+*.pkl
+*.pt
+*.dll
