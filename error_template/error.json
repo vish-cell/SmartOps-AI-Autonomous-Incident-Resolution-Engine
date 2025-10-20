@@ -1,0 +1,350 @@
+[
+  {
+    "category": "Infrastructure Issues",
+    "subcategory": "High CPU Usage",
+    "examples": [
+      "High CPU utilization detected",
+      "CPU usage exceeded 95% on instance i-xxxxx"
+    ],
+    "root_causes": [
+      "Unoptimized code or infinite loop",
+      "Heavy background process or spike in traffic"
+    ],
+    "recommended_actions": [
+      "Check top processes using htop",
+      "Scale up instance or auto-scale group",
+      "Restart the affected service"
+    ],
+    "priority": "High",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Infrastructure Issues",
+    "subcategory": "High Memory Usage",
+    "examples": [
+      "Memory pressure detected",
+      "Out of memory warning triggered"
+    ],
+    "root_causes": [
+      "Memory leak in application",
+      "Large dataset loaded into memory"
+    ],
+    "recommended_actions": [
+      "Identify memory-intensive process",
+      "Restart service or clear cache",
+      "Increase instance memory size"
+    ],
+    "priority": "High",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Infrastructure Issues",
+    "subcategory": "Disk Usage Full",
+    "examples": [
+      "Disk space critically low",
+      "No space left on device"
+    ],
+    "root_causes": [
+      "Log files not rotated",
+      "Large temporary data accumulation"
+    ],
+    "recommended_actions": [
+      "Clear temporary or log files",
+      "Add additional EBS volume",
+      "Increase disk size"
+    ],
+    "priority": "Critical",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Application Issues",
+    "subcategory": "Service Crash",
+    "examples": [
+      "Service restart initiated due to crash",
+      "Process terminated unexpectedly"
+    ],
+    "root_causes": [
+      "Memory leak or segmentation fault",
+      "Uncaught runtime exception"
+    ],
+    "recommended_actions": [
+      "Check logs for stack trace",
+      "Redeploy or restart service",
+      "Validate dependencies and configs"
+    ],
+    "priority": "Critical",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": true
+  },
+  {
+    "category": "Application Issues",
+    "subcategory": "Process Not Responding",
+    "examples": [
+      "Application process not responding",
+      "Timeout waiting for application thread"
+    ],
+    "root_causes": [
+      "Thread deadlock",
+      "Database connection blocking"
+    ],
+    "recommended_actions": [
+      "Restart service",
+      "Analyze thread dump",
+      "Optimize concurrency handling"
+    ],
+    "priority": "High",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Configuration Issues",
+    "subcategory": "Permission Denied",
+    "examples": [
+      "Permission denied accessing /etc/config",
+      "Access denied while reading configuration file"
+    ],
+    "root_causes": [
+      "Incorrect file permissions",
+      "Missing IAM policy"
+    ],
+    "recommended_actions": [
+      "Fix ownership and permissions",
+      "Update IAM policy or role permissions"
+    ],
+    "priority": "Medium",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Configuration Issues",
+    "subcategory": "Missing Environment Variables",
+    "examples": [
+      "Environment variable not found",
+      "Config key missing in environment"
+    ],
+    "root_causes": [
+      "Deployment script misconfiguration",
+      "Secrets not loaded in runtime"
+    ],
+    "recommended_actions": [
+      "Update .env or environment variables",
+      "Redeploy with updated config"
+    ],
+    "priority": "Medium",
+    "auto_fix_possible": false,
+    "trigger_ci_cd": true
+  },
+  {
+    "category": "Database Issues",
+    "subcategory": "Connection Timeout",
+    "examples": [
+      "Database connection timeout",
+      "DB took too long to respond"
+    ],
+    "root_causes": [
+      "Network latency to DB host",
+      "DB under heavy load"
+    ],
+    "recommended_actions": [
+      "Check DB endpoint reachability",
+      "Increase connection timeout",
+      "Scale up DB instance"
+    ],
+    "priority": "High",
+    "auto_fix_possible": false,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Database Issues",
+    "subcategory": "Authentication Failed",
+    "examples": [
+      "Database authentication failed",
+      "Invalid username or password for DB connection"
+    ],
+    "root_causes": [
+      "Rotated credentials not updated",
+      "IAM authentication misconfiguration"
+    ],
+    "recommended_actions": [
+      "Rotate and update credentials",
+      "Verify IAM authentication configuration"
+    ],
+    "priority": "High",
+    "auto_fix_possible": false,
+    "trigger_ci_cd": true
+  },
+  {
+    "category": "Network Issues",
+    "subcategory": "Packet Loss",
+    "examples": [
+      "Network packet loss detected",
+      "High retransmission rate on interface"
+    ],
+    "root_causes": [
+      "Unstable network link",
+      "Overloaded interface"
+    ],
+    "recommended_actions": [
+      "Check VPC flow logs",
+      "Restart network interface or instance"
+    ],
+    "priority": "High",
+    "auto_fix_possible": false,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Network Issues",
+    "subcategory": "DNS Failure",
+    "examples": [
+      "DNS resolution failed",
+      "Hostname not found"
+    ],
+    "root_causes": [
+      "DNS service outage",
+      "Incorrect DNS configuration"
+    ],
+    "recommended_actions": [
+      "Switch to alternate DNS resolver",
+      "Verify route53 or VPC resolver configuration"
+    ],
+    "priority": "Medium",
+    "auto_fix_possible": false,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Security Issues",
+    "subcategory": "Unauthorized Access Attempt",
+    "examples": [
+      "Unauthorized access detected",
+      "Failed login attempt from unknown IP"
+    ],
+    "root_causes": [
+      "Compromised credentials",
+      "Brute force attempt"
+    ],
+    "recommended_actions": [
+      "Block source IP",
+      "Rotate credentials",
+      "Enable MFA"
+    ],
+    "priority": "Critical",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Security Issues",
+    "subcategory": "SSL Certificate Expired",
+    "examples": [
+      "SSL handshake failed",
+      "Certificate expired for domain"
+    ],
+    "root_causes": [
+      "Neglected certificate renewal",
+      "Manual cert rotation failure"
+    ],
+    "recommended_actions": [
+      "Renew SSL certificate",
+      "Automate certificate rotation with ACM"
+    ],
+    "priority": "High",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "CI/CD Issues",
+    "subcategory": "Build Failed",
+    "examples": [
+      "Build step failed in pipeline",
+      "Compilation error during CI"
+    ],
+    "root_causes": [
+      "Syntax or dependency error",
+      "Version mismatch in build environment"
+    ],
+    "recommended_actions": [
+      "Fix build errors in repository",
+      "Rebuild pipeline with correct dependencies"
+    ],
+    "priority": "High",
+    "auto_fix_possible": false,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "CI/CD Issues",
+    "subcategory": "Deployment Rollback Triggered",
+    "examples": [
+      "Deployment failed and rollback initiated",
+      "New version unhealthy, reverting"
+    ],
+    "root_causes": [
+      "Deployment misconfiguration",
+      "Incompatible version deployed"
+    ],
+    "recommended_actions": [
+      "Inspect deployment logs",
+      "Fix version compatibility and redeploy"
+    ],
+    "priority": "Critical",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": true
+  },
+  {
+    "category": "Third-Party / API Issues",
+    "subcategory": "API Timeout",
+    "examples": [
+      "External API request timed out",
+      "No response from upstream service"
+    ],
+    "root_causes": [
+      "External dependency slowdown",
+      "Rate limiting or connectivity issue"
+    ],
+    "recommended_actions": [
+      "Add retries with backoff",
+      "Monitor external API health"
+    ],
+    "priority": "Medium",
+    "auto_fix_possible": false,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Resource Limits",
+    "subcategory": "OOM Kill",
+    "examples": [
+      "Process killed due to Out of Memory (OOMKill)",
+      "Kernel terminated process exceeding memory limit"
+    ],
+    "root_causes": [
+      "Memory overuse",
+      "Container resource limit too low"
+    ],
+    "recommended_actions": [
+      "Increase memory limit",
+      "Optimize memory usage in application"
+    ],
+    "priority": "Critical",
+    "auto_fix_possible": true,
+    "trigger_ci_cd": false
+  },
+  {
+    "category": "Unknown / Unclassified",
+    "subcategory": "Unrecognized Error",
+    "examples": [
+      "Unknown exception occurred",
+      "Unhandled error: code 9999"
+    ],
+    "root_causes": [
+      "New type of issue not yet classified"
+    ],
+    "recommended_actions": [
+      "Log new pattern for future model training",
+      "Alert DevOps team for manual investigation"
+    ],
+    "priority": "Medium",
+    "auto_fix_possible": false,
+    "trigger_ci_cd": false
+  }
+]

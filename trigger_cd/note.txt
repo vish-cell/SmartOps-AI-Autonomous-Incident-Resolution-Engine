@@ -1,0 +1,21 @@
+since we got the classification and its recomendation action from privous known handlings and 
+the method of solving we generate the precaution/trigger to preven them will be based on result we got in "data\outputs\rca_decision_grouped.json"   
+
+eg:          {
+            "timestamp": "2025-07-21T07:54:00Z",
+            "instance_id": "i-0a1234b5678cdef9",
+            "log_msg": "Permission denied accessing /etc/config",
+            "matched_category": "Configuration Issues",
+            "matched_subcategory": "Permission Denied",
+            "confidence": 0.945,
+            "recommended_actions": [
+                "Fix ownership and permissions",
+                "Update IAM policy or role permissions"
+            ],
+            "priority": "Medium",
+            "auto_fix_possible": true,
+            "trigger_ci_cd": false
+        },                            
+        here as we see we compare the logs we got with the error in pre-defined template... 
+        we classify these error/logs based on template using LLM'S + vectorization so appropiate 
+        triggers will be done .......
